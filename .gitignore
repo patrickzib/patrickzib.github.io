@@ -2,5 +2,6 @@
 /.quarto/
 /_site/
 /*.html
-
+.DS_Store
+.idea/
 

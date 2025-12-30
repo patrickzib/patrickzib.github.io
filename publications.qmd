@@ -33,7 +33,7 @@ title: "Publications"
 
 ## 2021
 
-- P. Schäfer, A. Ermshaus, U. Leser. *ClaSP — Time Series Segmentation*, CIKM 2021. [Paper](old_html/clasp.pdf) · [Webpage](https://sites.google.com/view/ts-clasp) · [Code](https://sites.google.com/view/ts-clasp)
+- P. Schäfer, A. Ermshaus, U. Leser. *ClaSP — Time Series Segmentation*, CIKM 2021. [Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482240) · [Webpage](https://sites.google.com/view/ts-clasp) · [Code](https://sites.google.com/view/ts-clasp)
 
 ## 2020
 
@@ -46,32 +46,34 @@ title: "Publications"
 
 ## 2018
 
-- P. Schäfer, U. Leser. *Multivariate Time Series Classification with WEASEL+MUSE*, 3rd ECML/PKDD Workshop on AALTD, 2018. [Paper](old_html/muse.pdf) · [Code](https://github.com/patrickzib/SFA)
+- P. Schäfer, U. Leser. *Multivariate Time Series Classification with WEASEL+MUSE*, 3rd ECML/PKDD Workshop on AALTD, 2018. [Code](https://github.com/patrickzib/SFA)
 - S. Sprenger, P. Schäfer, U. Leser. *Multidimensional Range Queries on Modern Hardware*, Preprint. [Paper](https://arxiv.org/pdf/1801.03644.pdf)
 - P. Schäfer, D. Pflugmacher, P. Hostert, U. Leser. *Classifying land cover from satellite images using time series analytics*, EDBT/ICDT 2018 Workshops. [Paper](http://ceur-ws.org/Vol-2083/paper-02.pdf)
 - P. Schäfer, U. Leser. *Multivariate Time Series Classification with WEASEL+MUSE*, Preprint. [Paper](https://arxiv.org/abs/1711.11343) · [Code](https://github.com/patrickzib/SFA)
 
 ## 2017
 
-- P. Schäfer, U. Leser. *Fast and Accurate Time Series Classification with WEASEL*, CIKM 2017. [Paper](old_html/weasel.pdf) · [Code](https://github.com/patrickzib/SFA)
-- P. Schäfer, U. Leser. *Benchmarking Univariate Time Series Classifiers*, BTW 2017. [Paper](old_html/benchmarking.pdf)
+- P. Schäfer, U. Leser. *Fast and Accurate Time Series Classification with WEASEL*, CIKM 2017. [Paper](https://dl.acm.org/doi/abs/10.1145/3132847.3132980) · [Code](https://github.com/patrickzib/SFA)
+- P. Schäfer, U. Leser. *Benchmarking Univariate Time Series Classifiers*, BTW 2017. [Paper](https://www2.informatik.hu-berlin.de/~schaefpa/benchmarking.pdf)
 
 ## 2016
 
-- P. Schäfer. *Scalable Time Series Classification*, ECML/PKDD 2016 & Data Mining and Knowledge Discovery 2016. [Paper](old_html/bossvs.pdf) · [Keynote](old_html/talks/scalable_classification.key) · [PPT](old_html/talks/scalable_classification.pptx) · [Code](https://github.com/patrickzib/SFA)
+- P. Schäfer. *Scalable Time Series Classification*, ECML/PKDD 2016 & Data Mining and Knowledge Discovery 2016. [Paper](https://link.springer.com/article/10.1007/s10618-015-0441-y) · [Keynote](https://www2.informatik.hu-berlin.de/~schaefpa/talks/scalable_classification.key) · [PPT](https://www2.informatik.hu-berlin.de/~schaefpa/talks/scalable_classification.pptx) · [Code](https://github.com/patrickzib/SFA)
 
 ## 2015
 
-- P. Schäfer. *Scalable Time Series Classification for Data Analytics*, Dissertation 2015. [Dissertation](http://edoc.hu-berlin.de/dissertationen/schaefer-patrick-2015-10-19/PDF/schaefer.pdf) · [Keynote](old_html/talks/time_series_classification_16_9.key) · [PPT](old_html/talks/time_series_classification_16_9.pptx)
+- P. Schäfer. *Scalable Time Series Classification for Data Analytics*, Dissertation 2015. [Dissertation](http://edoc.hu-berlin.de/dissertationen/schaefer-patrick-2015-10-19/PDF/schaefer.pdf) · [Keynote](https://www2.informatik.hu-berlin.de/~schaefpa/talks/time_series_classification_16_9.key) · [PPT](https://www2.informatik.hu-berlin.de/~schaefpa/talks/time_series_classification_16_9.pptx)
 
 ## 2014
 
-- P. Schäfer. *The BOSS is concerned with time series classification in the presence of noise*, Data Mining and Knowledge Discovery 2014. [Paper](old_html/boss.pdf) · [Code](https://github.com/patrickzib/SFA)
+- P. Schäfer. *The BOSS is concerned with time series classification in the presence of noise*, Data Mining and Knowledge Discovery 2014. [Paper](https://link.springer.com/article/10.1007/s10618-014-0377-7) · [Code](https://github.com/patrickzib/SFA)
 - P. Schäfer. *Experiencing the Shotgun Distance for Time Series Analysis*, Transactions on Machine Learning and Data Mining 2014. [Paper](http://www.ibai-publishing.org/journal/issue_mldm/2014_July/mldm_7_1_3-25.pdf) · [Code](https://github.com/patrickzib/SFA)
 - I. Potamitis, P. Schäfer. *On classifying insects from their wing-beat: New results*, Ecology and acoustics, Paris, France 2014.
-- P. Schäfer. *Towards Time Series Classification without Human Preprocessing*, MLDM 2014. [Paper](old_html/shotgun_distance.pdf) · [Code](https://github.com/patrickzib/SFA)
+- P. Schäfer. *Towards Time Series Classification without Human Preprocessing*, MLDM 2014. [Paper](https://www2.informatik.hu-berlin.de/shotgun_distance.pdf) · [Code](https://github.com/patrickzib/SFA)
+- Jens Krüger et al. *The MoSGrid science gateway – A complete solution for molecular simulations*, Journal of Chemical Theory and Computation, 2014. [Paper](https://pubs.acs.org/doi/abs/10.1021/ct500159h)
+
 
 ## 2013 & earlier
 
 - P. Schäfer. *Shooting Audio Recordings of Insects with SFA*, AmiBio Workshop 2013.
-- P. Schäfer, S. Dressler. *SFA: a symbolic Fourier approximation and index for similarity search in high dimensional datasets*, EDBT 2012. [Paper](old_html/sfa_trie.pdf) · [Code](https://github.com/patrickzib/SFA)
+- P. Schäfer, S. Dressler. *SFA: a symbolic Fourier approximation and index for similarity search in high dimensional datasets*, EDBT 2012. [Paper](https://dl.acm.org/doi/abs/10.1145/2247596.2247656) · [Code](https://github.com/patrickzib/SFA)

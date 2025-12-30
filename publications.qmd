@@ -2,8 +2,6 @@
 title: "Publications"
 ---
 
-The list below mirrors the legacy `index.html` entries and mixes journal, conference, and tutorial references. Links point to the PDF, supplemental webpages, or code when available.
-
 ## 2026
 
 - A. Ermshaus, P. Schäfer, U. Leser. *CLaP — State Detection from Time Series*, PVLDB, Boston, MA, USA, 2026. [Paper](https://www.vldb.org/pvldb/vol19/p70-ermshaus.pdf) · [Code](https://github.com/ermshaua/classification-label-profile)

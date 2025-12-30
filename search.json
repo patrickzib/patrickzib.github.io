@@ -95,7 +95,7 @@
     "href": "index.html#selected-publications",
     "title": "Home",
     "section": "Selected publications",
-    "text": "Selected publications\nRecent highlights — the full list is on Publications.\n\nCLaP — State Detection from Time Series, PVLDB 2026. Paper · Code\nFast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025. Paper · Code\nMotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025 (accepted).\nDiscovering Leitmotifs in Multidimensional Time Series, PVLDB 2025. Paper · Code\naeon: a Python Toolkit for Learning from Time Series, JMLR 2024. Paper\nRaising the ClaSS of Streaming Time Series Segmentation, PVLDB 2024. Paper\nMotiflets — Simple and Accurate Detection of Motifs in Time Series, PVLDB 2023. Paper · Code"
+    "text": "Selected publications\nRecent highlights — the full list is on Publications.\n\nCLaP — State Detection from Time Series, PVLDB 2026. Paper · Code\nFast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025. Paper · Code\nMotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025. Paper\nDiscovering Leitmotifs in Multidimensional Time Series, PVLDB 2025. Paper · Code\naeon: a Python Toolkit for Learning from Time Series, JMLR 2024. Paper\nRaising the ClaSS of Streaming Time Series Segmentation, PVLDB 2024. Paper\nMotiflets — Simple and Accurate Detection of Motifs in Time Series, PVLDB 2023. Paper · Code"
   },
   {
     "objectID": "index.html#service-projects",
@@ -179,7 +179,7 @@
     "href": "publications.html#section-1",
     "title": "Publications",
     "section": "2025",
-    "text": "2025\n\nL. Feremans, P. Schäfer, W. Meert. MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025, Porto, Portugal (accepted).\nP. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025, Hong Kong SAR, China. Paper · Code\nP. Schäfer, U. Leser. Discovering Leitmotifs in Multidimensional Time Series, PVLDB, London, UK, 2025. Paper · Code\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, Preprint. Paper draft"
+    "text": "2025\n\nL. Feremans, P. Schäfer, W. Meert. MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025, Porto, Portugal. Paper\nP. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025, Hong Kong SAR, China. Paper · Code\nP. Schäfer, U. Leser. Discovering Leitmotifs in Multidimensional Time Series, PVLDB, London, UK, 2025. Paper · Code\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, Preprint. Paper draft"
   },
   {
     "objectID": "publications.html#section-2",

@@ -140,27 +140,6 @@
     "text": "Seminars & project work\n\nAlgorithmen und Methoden der Zeitreihenanalyse (time-series seminar)\nWiSe 2023/24 (Master); WiSe 2022/23 (Master); SoSe 2022 (Bachelor).\nVector Search (Master seminar)\nWiSe 2025/26.\nImplementierung eines Brettspiels … (semester project)\nWiSe 2018/19; WiSe 2016/17.\nLandnutzungsklassifikation (Master seminar)\nWiSe 2018/19.\nVerteilte NoSQL-Datenbanken (seminar)\nSoSe 2015; SoSe 2013; SoSe 2012."
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
-    "section": "",
-    "text": "May 2024: Algorithms Seminar, University of Example — “Streaming Kernels in Practice”\nJuly 2024: Workshop on Succinct Structures — “Ten Years of BOSS”"
-  },
-  {
-    "objectID": "talks.html#upcoming",
-    "href": "talks.html#upcoming",
-    "title": "Talks",
-    "section": "",
-    "text": "May 2024: Algorithms Seminar, University of Example — “Streaming Kernels in Practice”\nJuly 2024: Workshop on Succinct Structures — “Ten Years of BOSS”"
-  },
-  {
-    "objectID": "talks.html#selected-talks",
-    "href": "talks.html#selected-talks",
-    "title": "Talks",
-    "section": "Selected talks",
-    "text": "Selected talks\n\n\n\nEvent\nTitle\nYear\nMaterials\n\n\n\n\nAlgorithms & Theory Seminar\nShotgun Distance\n2023\nSlides\n\n\nData Systems Colloquium\nBenchmarking Succinct Indices\n2022\nSlides\n\n\nESA Tutorial\nBoss vs Boss\n2019\nSlides\n\n\n\nAdditional slide decks live under old_html/talks/; they are automatically copied because the directory is listed in _quarto.yml resources."
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",

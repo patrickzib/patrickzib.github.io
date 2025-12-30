@@ -11,7 +11,6 @@ search, and large-scale data management.
 
 - 📍 Humboldt-Universität zu Berlin, Department of Computer Science
 - 🔬 Core developer of the [aeon](https://github.com/aeon-toolkit/aeon) toolkit
-- ✉️ patrick.schaefer@hu-berlin.de
 :::
 
 ## Contact

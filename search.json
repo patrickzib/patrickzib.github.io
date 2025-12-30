@@ -32,7 +32,7 @@
     "href": "about.html#awards-nominations",
     "title": "About",
     "section": "Awards & nominations",
-    "text": "Awards & nominations\n\nTwo-time finalist for Humboldt-Universität zu Berlin’s “Preis für gute Lehre”: recognized in 2020 for Digital Teaching and in 2021 for Digitally Supported Teaching Concepts (finalists 2020, finalists 2021).\nVLDB Distinguished Reviewer Award — 2025.\nAnnual Scholarship from the German Academic Exchange Service (DAAD) — 2005–2006.\nFirst place, ACM Programming Contest Berlin — 2005.BN"
+    "text": "Awards & nominations\n\nVLDB Distinguished Reviewer Award — 2025.\nTwo-time finalist for Humboldt-Universität zu Berlin’s “Preis für gute Lehre”: recognized in 2020 for Digital Teaching and in 2021 for Digitally Supported Teaching Concepts (finalists 2020, finalists 2021).\nAnnual Scholarship from the German Academic Exchange Service (DAAD) — 2005–2006.\nFirst place, ACM Programming Contest Berlin — 2005."
   },
   {
     "objectID": "about.html#supervision",
@@ -60,14 +60,14 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Dr. rer. nat., Dipl. Inform. — Senior researcher in time series analytics, vector search, and large-scale data systems.\n\n📍 Humboldt-Universität zu Berlin, Department of Computer Science\n🔬 Core developer of the aeon toolkit\n✉️ patrick.schaefer@hu-berlin.de"
+    "text": "Dr. rer. nat., Dipl. Inform. — Senior researcher in time series analytics, vector search, and large-scale data management.\n\n📍 Humboldt-Universität zu Berlin, Department of Computer Science\n🔬 Core developer of the aeon toolkit\n✉️ patrick.schaefer@hu-berlin.de"
   },
   {
     "objectID": "index.html#patrick-schäfer",
     "href": "index.html#patrick-schäfer",
     "title": "Home",
     "section": "",
-    "text": "Dr. rer. nat., Dipl. Inform. — Senior researcher in time series analytics, vector search, and large-scale data systems.\n\n📍 Humboldt-Universität zu Berlin, Department of Computer Science\n🔬 Core developer of the aeon toolkit\n✉️ patrick.schaefer@hu-berlin.de"
+    "text": "Dr. rer. nat., Dipl. Inform. — Senior researcher in time series analytics, vector search, and large-scale data management.\n\n📍 Humboldt-Universität zu Berlin, Department of Computer Science\n🔬 Core developer of the aeon toolkit\n✉️ patrick.schaefer@hu-berlin.de"
   },
   {
     "objectID": "index.html#contact",
@@ -179,7 +179,7 @@
     "href": "publications.html#section-1",
     "title": "Publications",
     "section": "2025",
-    "text": "2025\n\nL. Feremans, P. Schäfer, W. Meert. MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025, Porto, Portugal. Paper\nP. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025, Hong Kong SAR, China. Paper · Code\nP. Schäfer, U. Leser. Discovering Leitmotifs in Multidimensional Time Series, PVLDB, London, UK, 2025. Paper · Code\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, Preprint. Paper draft"
+    "text": "2025\n\nL. Feremans, P. Schäfer, W. Meert. MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025, Porto, Portugal. Paper\nP. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025, Hong Kong SAR, China. Paper · Code\nP. Schäfer, U. Leser. Discovering Leitmotifs in Multidimensional Time Series, PVLDB, London, UK, 2025. Paper · Code · Talk\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, Preprint. Paper draft"
   },
   {
     "objectID": "publications.html#section-2",
@@ -193,7 +193,7 @@
     "href": "publications.html#section-3",
     "title": "Publications",
     "section": "2023",
-    "text": "2023\n\nA. Ermshaus, P. Schäfer, U. Leser. ClaSP: parameter-free time series segmentation, Data Mining and Knowledge Discovery, 2023. Paper · Webpage\nP. Schäfer, U. Leser. WEASEL 2.0 — A Random Dilated Dictionary Transform for Fast, Accurate and Memory Constrained Time Series Classification, Journal Track @ ECML/PKDD 2023. Paper · Code\nP. Schäfer, U. Leser. Motiflets — Simple and Accurate Detection of Motifs in Time Series, PVLDB, Vancouver, Canada, 2023. Paper · Code"
+    "text": "2023\n\nA. Ermshaus, P. Schäfer, U. Leser. ClaSP: parameter-free time series segmentation, Data Mining and Knowledge Discovery, 2023. Paper · Webpage\nP. Schäfer, U. Leser. WEASEL 2.0 — A Random Dilated Dictionary Transform for Fast, Accurate and Memory Constrained Time Series Classification, Journal Track @ ECML/PKDD 2023. Paper · Code\nP. Schäfer, U. Leser. Motiflets — Simple and Accurate Detection of Motifs in Time Series, PVLDB, Vancouver, Canada, 2023. Paper · Code · Talk"
   },
   {
     "objectID": "publications.html#section-4",
@@ -207,14 +207,14 @@
     "href": "publications.html#section-5",
     "title": "Publications",
     "section": "2021",
-    "text": "2021\n\nP. Schäfer, A. Ermshaus, U. Leser. ClaSP — Time Series Segmentation, CIKM 2021. Paper · Webpage · Code"
+    "text": "2021\n\nP. Schäfer, A. Ermshaus, U. Leser. ClaSP — Time Series Segmentation, CIKM 2021. Paper · Webpage · Code · Talk"
   },
   {
     "objectID": "publications.html#section-6",
     "href": "publications.html#section-6",
     "title": "Publications",
     "section": "2020",
-    "text": "2020\n\nP. Schäfer, U. Leser. TEASER: Early and Accurate Time Series Classification, ECML/PKDD 2020. Paper · Code"
+    "text": "2020\n\nP. Schäfer, U. Leser. TEASER: Early and Accurate Time Series Classification, ECML/PKDD 2020. Paper · Code · Talk"
   },
   {
     "objectID": "publications.html#section-7",
@@ -228,14 +228,14 @@
     "href": "publications.html#section-8",
     "title": "Publications",
     "section": "2018",
-    "text": "2018\n\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, 3rd ECML/PKDD Workshop on AALTD, 2018. Code\nS. Sprenger, P. Schäfer, U. Leser. Multidimensional Range Queries on Modern Hardware, Preprint. Paper\nP. Schäfer, D. Pflugmacher, P. Hostert, U. Leser. Classifying land cover from satellite images using time series analytics, EDBT/ICDT 2018 Workshops. Paper\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, Preprint. Paper · Code"
+    "text": "2018\n\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, 3rd ECML/PKDD Workshop on AALTD, 2018. Code · Talk\nS. Sprenger, P. Schäfer, U. Leser. Multidimensional Range Queries on Modern Hardware, Preprint. Paper\nP. Schäfer, D. Pflugmacher, P. Hostert, U. Leser. Classifying land cover from satellite images using time series analytics, EDBT/ICDT 2018 Workshops. Paper\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, Preprint. Paper · Code"
   },
   {
     "objectID": "publications.html#section-9",
     "href": "publications.html#section-9",
     "title": "Publications",
     "section": "2017",
-    "text": "2017\n\nP. Schäfer, U. Leser. Fast and Accurate Time Series Classification with WEASEL, CIKM 2017. Paper · Code\nP. Schäfer, U. Leser. Benchmarking Univariate Time Series Classifiers, BTW 2017. Paper"
+    "text": "2017\n\nP. Schäfer, U. Leser. Fast and Accurate Time Series Classification with WEASEL, CIKM 2017. Paper · Code · Talk\nP. Schäfer, U. Leser. Benchmarking Univariate Time Series Classifiers, BTW 2017. Paper"
   },
   {
     "objectID": "publications.html#section-10",

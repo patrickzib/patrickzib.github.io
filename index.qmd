@@ -60,7 +60,7 @@ Recent highlights — the full list is on [Publications](publications.qmd).
 
 - **CLaP — State Detection from Time Series**, PVLDB 2026. [Paper](https://www.vldb.org/pvldb/vol19/p70-ermshaus.pdf) · [Code](https://github.com/ermshaua/classification-label-profile)
 - **Fast and Exact Similarity Search in less than a Blink of an Eye**, ICDE 2025. [Paper](https://ieeexplore.ieee.org/document/11112946) · [Code](https://github.com/patrickzib/MESSI-SFA)
-- **MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series**, ECML/PKDD 2025 (accepted).
+- **MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series**, ECML/PKDD 2025. [Paper](https://link.springer.com/chapter/10.1007/978-3-032-06109-6_27)
 - **Discovering Leitmotifs in Multidimensional Time Series**, PVLDB 2025. [Paper](https://www.vldb.org/pvldb/vol18/p377-schafer.pdf) · [Code](https://github.com/patrickzib/leitmotifs)
 - **aeon: a Python Toolkit for Learning from Time Series**, JMLR 2024. [Paper](https://jmlr.org/papers/v25/23-1444.html)
 - **Raising the ClaSS of Streaming Time Series Segmentation**, PVLDB 2024. [Paper](https://www.vldb.org/pvldb/vol17/p1953-ermshaus.pdf)

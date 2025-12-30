@@ -8,7 +8,7 @@ title: "Publications"
 
 ## 2025
 
-- L. Feremans, P. Schäfer, W. Meert. *MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series*, ECML/PKDD 2025, Porto, Portugal (accepted).
+- L. Feremans, P. Schäfer, W. Meert. *MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series*, ECML/PKDD 2025, Porto, Portugal. [Paper](https://link.springer.com/chapter/10.1007/978-3-032-06109-6_27)
 - P. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. *Fast and Exact Similarity Search in less than a Blink of an Eye*, ICDE 2025, Hong Kong SAR, China. [Paper](https://ieeexplore.ieee.org/document/11112946) · [Code](https://github.com/patrickzib/MESSI-SFA)
 - P. Schäfer, U. Leser. *Discovering Leitmotifs in Multidimensional Time Series*, PVLDB, London, UK, 2025. [Paper](https://www.vldb.org/pvldb/vol18/p377-schafer.pdf) · [Code](https://github.com/patrickzib/leitmotifs)
 - A. Ermshaus, P. Schäfer, U. Leser. *CLaP — State Detection from Time Series*, Preprint. [Paper draft](https://arxiv.org/abs/2504.01783)

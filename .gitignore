@@ -5,3 +5,5 @@
 .DS_Store
 .idea/
 
+
+**/*.quarto_ipynb

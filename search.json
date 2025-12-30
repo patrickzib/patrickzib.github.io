@@ -95,7 +95,7 @@
     "href": "index.html#selected-publications",
     "title": "Home",
     "section": "Selected publications",
-    "text": "Selected publications\nRecent highlights — the full list is on Publications.\n\nCLaP — State Detection from Time Series, PVLDB 2026. Paper · Code\nFast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025. Paper · Code\nMotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025. Paper\nDiscovering Leitmotifs in Multidimensional Time Series, PVLDB 2025. Paper · Code\naeon: a Python Toolkit for Learning from Time Series, JMLR 2024. Paper\nRaising the ClaSS of Streaming Time Series Segmentation, PVLDB 2024. Paper\nMotiflets — Simple and Accurate Detection of Motifs in Time Series, PVLDB 2023. Paper · Code"
+    "text": "Selected publications\nRecent highlights — the full list is on Publications.\n\nCLaP — State Detection from Time Series, PVLDB 2026. Paper · Code\nFast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025. Paper · Code\nMotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025. Paper\nDiscovering Leitmotifs in Multidimensional Time Series, PVLDB 2025. Paper · Code\naeon: a Python Toolkit for Learning from Time Series, JMLR 2024. Paper\nRaising the ClaSS of Streaming Time Series Segmentation, PVLDB 2024. Paper\nMotiflets — Simple and Accurate Detection of Motifs in Time Series, PVLDB 2023. Paper · Code\nBake off redux: A Review and Experimental Evaluation of Recent Time Series Classification Algorithms DMKD, 2024. Paper"
   },
   {
     "objectID": "index.html#service-projects",

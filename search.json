@@ -116,7 +116,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Below is a compact overview of the courses I teach, grouped by format and linked to HU Berlin archives when available."
+    "text": "Below is a compact overview of the courses I teach."
   },
   {
     "objectID": "teaching.html#lecture-courses",
@@ -165,14 +165,14 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "The list below mirrors the legacy index.html entries and mixes journal, conference, and tutorial references. Links point to the PDF, supplemental webpages, or code when available."
+    "text": "A. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, PVLDB, Boston, MA, USA, 2026. Paper · Code"
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
     "title": "Publications",
-    "section": "2026",
-    "text": "2026\n\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, PVLDB, Boston, MA, USA, 2026. Paper · Code"
+    "section": "",
+    "text": "A. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, PVLDB, Boston, MA, USA, 2026. Paper · Code"
   },
   {
     "objectID": "publications.html#section-1",

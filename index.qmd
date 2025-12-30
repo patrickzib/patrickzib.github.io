@@ -67,6 +67,7 @@ Recent highlights — the full list is on [Publications](publications.qmd).
 - **aeon: a Python Toolkit for Learning from Time Series**, JMLR 2024. [Paper](https://jmlr.org/papers/v25/23-1444.html)
 - **Raising the ClaSS of Streaming Time Series Segmentation**, PVLDB 2024. [Paper](https://www.vldb.org/pvldb/vol17/p1953-ermshaus.pdf)
 - **Motiflets — Simple and Accurate Detection of Motifs in Time Series**, PVLDB 2023. [Paper](https://www.vldb.org/pvldb/vol16/p725-schafer.pdf) · [Code](https://github.com/patrickzib/motiflets)
+- **Bake off redux: A Review and Experimental Evaluation of Recent Time Series Classification Algorithms** DMKD, 2024. [Paper](https://link.springer.com/article/10.1007/s10618-024-01022-1)
 
 ## Service & projects
 

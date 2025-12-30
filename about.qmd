@@ -4,9 +4,15 @@ title: "About"
 
 ## Biography
 
-I am Patrick Schäfer (Dr. rer. nat., Dipl. Inform.), a senior researcher at Humboldt-Universität zu Berlin. My work centers on machine learning for time series data, scalable similarity search, and vector databases. I design algorithms with rigorous guarantees and turn them into reliable software artifacts such as the open-source [**aeon** toolkit](https://www.aeon-toolkit.org/).
+I am Patrick Schäfer (Dr. rer. nat., Dipl. Inform.), a senior researcher at
+Humboldt-Universität zu Berlin. My work centers on machine learning for time series data,
+scalable similarity search, and vector databases. I design algorithms with rigorous
+guarantees and turn them into reliable software artifacts such as the open-source
+[**aeon** toolkit](https://www.aeon-toolkit.org/).
 
-I obtained my doctorate at HU Berlin on scalable time series classification and have been part of research projects at Zuse Institute Berlin and in various industry collaborations focused on large-scale analytics.
+I obtained my doctorate at HU Berlin on scalable time series classification and have
+been part of research projects at Zuse Institute Berlin and in various industry
+collaborations focused on large-scale analytics.
 
 ## Dissertation
 

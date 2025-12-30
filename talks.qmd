@@ -1,0 +1,18 @@
+---
+title: "Talks"
+---
+
+## Upcoming
+
+- *May 2024*: Algorithms Seminar, University of Example — "Streaming Kernels in Practice"
+- *July 2024*: Workshop on Succinct Structures — "Ten Years of BOSS"
+
+## Selected talks
+
+| Event | Title | Year | Materials |
+| --- | --- | --- | --- |
+| Algorithms & Theory Seminar | Shotgun Distance | 2023 | [Slides](old_html/shotgun_distance.pdf) |
+| Data Systems Colloquium | Benchmarking Succinct Indices | 2022 | [Slides](old_html/benchmarking.pdf) |
+| ESA Tutorial | Boss vs Boss | 2019 | [Slides](old_html/bossvs.pdf) |
+
+Additional slide decks live under `old_html/talks/`; they are automatically copied because the directory is listed in `_quarto.yml` resources.

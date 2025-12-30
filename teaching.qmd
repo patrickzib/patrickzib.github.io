@@ -1,0 +1,36 @@
+---
+title: "Teaching"
+---
+
+Below is a compact overview of the courses I teach, grouped by format and linked to HU Berlin archives when available.
+
+## Lecture courses
+
+- **Data Science mit Python** (lecture & exercise)  
+  [WiSe 2025/26](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws-25-26/vl_ds); [WiSe 2022/23](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws_2223/vl_ds); [WiSe 2021/22](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws_2122/vl_ds).
+- **Angewandtes Maschinelles Lernen** (lecture & exercise)  
+  [SoSe 2025](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/sose-25/vl_aml); [WiSe 2023/24](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws_2324/vl_aml); [SoSe 2022](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ss22/vl_aml); [SoSe 2020](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/SoSe%202020/vl_aml).
+- **Data Warehousing and Data Mining** (lecture & exercise)  
+  [WiSe 2024/25](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws-24-25/vl_dwhdm); [WiSe 2020/21](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws_2021/vl_dwhdm/); [WiSe 2017/18](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws_1718/ue_dwhdm).
+
+## Exercises
+
+- **Information Retrieval** (exercise)  
+  [SoSe 2024](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/sose-24/ue_inforet); [WiSe 2016/17](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws1617/ue_inforet/ue_inforet).
+- **Algorithmen und Datenstrukturen** (exercise)  
+  SoSe 2024; [SoSe 2023](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/sose-23/vl_algodat); [SoSe 2020](https://hu.berlin/algodat20); [SoSe 2019](https://hu.berlin/algodat19); [SoSe 2018](https://hu.berlin/algodat18); [SoSe 2017](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/SS17/ue_algodat); [SoSe 2016](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ss16/algodat16).
+- **Implementierung von Datenbanken** (exercise)  
+  [WiSe 2019/20](https://hu.berlin/ue_dbs219).
+
+## Seminars & project work
+
+- **Algorithmen und Methoden der Zeitreihenanalyse** (time-series seminar)  
+  [WiSe 2023/24 (Master)](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws_2324/se_tsc); [WiSe 2022/23 (Master)](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws_2223/se_tsc); [SoSe 2022 (Bachelor)](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ss22/se_tsc).
+- **Vector Search** (Master seminar)  
+  [WiSe 2025/26](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws-25-26/se_tsc).
+- **Implementierung eines Brettspiels …** (semester project)  
+  [WiSe 2018/19](https://hu.berlin/tickettoride1819); [WiSe 2016/17](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/teaching/archive/ws1617/sp_brettspiel).
+- **Landnutzungsklassifikation** (Master seminar)  
+  [WiSe 2018/19](https://hu.berlin/landnutzung).
+- **Verteilte NoSQL-Datenbanken** (seminar)  
+  SoSe 2015; SoSe 2013; SoSe 2012.

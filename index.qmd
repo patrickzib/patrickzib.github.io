@@ -6,7 +6,8 @@ page-layout: full
 ::: {.hero}
 ## Patrick Schäfer
 
-Dr. rer. nat., Dipl. Inform. — Senior researcher in time series analytics, vector search, and large-scale data systems.
+Dr. rer. nat., Dipl. Inform. — Senior researcher in time series analytics, vector
+search, and large-scale data management.
 
 - 📍 Humboldt-Universität zu Berlin, Department of Computer Science
 - 🔬 Core developer of the [aeon](https://github.com/aeon-toolkit/aeon) toolkit
@@ -40,7 +41,8 @@ Rudower Chaussee 25
 
 ## Research interests
 
-- Time series: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs), segmentation (ClaSP, ClaSS, ClaP), similarity search (SFA, SOFA)
+- Time series: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs),
+segmentation (ClaSP, ClaSS, ClaP), similarity search (SFA, SOFA)
 - Vector search and high-dimensional indexing
 - Benchmarking methodology and reproducible experimentation
 

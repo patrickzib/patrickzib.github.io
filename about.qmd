@@ -21,10 +21,10 @@ I obtained my doctorate at HU Berlin on scalable time series classification and 
 
 ## Awards & nominations
 
+- VLDB Distinguished Reviewer Award — [2025](https://vldb.org/2025/?conference-awards).
 - Two-time finalist for Humboldt-Universität zu Berlin’s “Preis für gute Lehre”: recognized in 2020 for Digital Teaching and in 2021 for Digitally Supported Teaching Concepts ([finalists 2020](https://bolognalab.hu-berlin.de/de/gl/pfgl/auswahl/finalisten/finalist_innen-2020), [finalists 2021](https://bolognalab.hu-berlin.de/de/gl/pfgl/auswahl/finalisten/finalist-innen-2021)).
-- VLDB Distinguished Reviewer Award — 2025.
 - Annual Scholarship from the German Academic Exchange Service (DAAD) — 2005–2006.
-- First place, ACM Programming Contest Berlin — 2005.BN
+- First place, ACM Programming Contest Berlin — 2005.
 
 ## Supervision
 

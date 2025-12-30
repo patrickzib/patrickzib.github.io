@@ -10,7 +10,7 @@ title: "Publications"
 
 - L. Feremans, P. Schäfer, W. Meert. *MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series*, ECML/PKDD 2025, Porto, Portugal. [Paper](https://link.springer.com/chapter/10.1007/978-3-032-06109-6_27)
 - P. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. *Fast and Exact Similarity Search in less than a Blink of an Eye*, ICDE 2025, Hong Kong SAR, China. [Paper](https://ieeexplore.ieee.org/document/11112946) · [Code](https://github.com/patrickzib/MESSI-SFA)
-- P. Schäfer, U. Leser. *Discovering Leitmotifs in Multidimensional Time Series*, PVLDB, London, UK, 2025. [Paper](https://www.vldb.org/pvldb/vol18/p377-schafer.pdf) · [Code](https://github.com/patrickzib/leitmotifs)
+- P. Schäfer, U. Leser. *Discovering Leitmotifs in Multidimensional Time Series*, PVLDB, London, UK, 2025. [Paper](https://www.vldb.org/pvldb/vol18/p377-schafer.pdf) · [Code](https://github.com/patrickzib/leitmotifs) · [Talk](https://github.com/patrickzib/leitmotifs/blob/main/slides/slides_vldb.pdf)
 - A. Ermshaus, P. Schäfer, U. Leser. *CLaP — State Detection from Time Series*, Preprint. [Paper draft](https://arxiv.org/abs/2504.01783)
 
 ## 2024
@@ -25,7 +25,7 @@ title: "Publications"
 
 - A. Ermshaus, P. Schäfer, U. Leser. *ClaSP: parameter-free time series segmentation*, Data Mining and Knowledge Discovery, 2023. [Paper](https://link.springer.com/article/10.1007/s10618-023-00923-x) · [Webpage](https://sites.google.com/view/ts-parameter-free-clasp)
 - P. Schäfer, U. Leser. *WEASEL 2.0 — A Random Dilated Dictionary Transform for Fast, Accurate and Memory Constrained Time Series Classification*, Journal Track @ ECML/PKDD 2023. [Paper](https://link.springer.com/article/10.1007/s10994-023-06395-w) · [Code](https://github.com/patrickzib/dictionary)
-- P. Schäfer, U. Leser. *Motiflets — Simple and Accurate Detection of Motifs in Time Series*, PVLDB, Vancouver, Canada, 2023. [Paper](https://www.vldb.org/pvldb/vol16/p725-schafer.pdf) · [Code](https://github.com/patrickzib/motiflets)
+- P. Schäfer, U. Leser. *Motiflets — Simple and Accurate Detection of Motifs in Time Series*, PVLDB, Vancouver, Canada, 2023. [Paper](https://www.vldb.org/pvldb/vol16/p725-schafer.pdf) · [Code](https://github.com/patrickzib/motiflets) · [Talk](https://github.com/patrickzib/motiflets/blob/main/slides/slides_vldb.pdf)
 
 ## 2022
 
@@ -33,11 +33,11 @@ title: "Publications"
 
 ## 2021
 
-- P. Schäfer, A. Ermshaus, U. Leser. *ClaSP — Time Series Segmentation*, CIKM 2021. [Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482240) · [Webpage](https://sites.google.com/view/ts-clasp) · [Code](https://sites.google.com/view/ts-clasp)
+- P. Schäfer, A. Ermshaus, U. Leser. *ClaSP — Time Series Segmentation*, CIKM 2021. [Paper](https://dl.acm.org/doi/abs/10.1145/3459637.3482240) · [Webpage](https://sites.google.com/view/ts-clasp) · [Code](https://sites.google.com/view/ts-clasp) · [Talk](https://github.com/patrickzib/SFA/tree/master/slides)
 
 ## 2020
 
-- P. Schäfer, U. Leser. *TEASER: Early and Accurate Time Series Classification*, ECML/PKDD 2020. [Paper](https://link.springer.com/article/10.1007/s10618-020-00690-z) · [Code](https://github.com/patrickzib/SFA)
+- P. Schäfer, U. Leser. *TEASER: Early and Accurate Time Series Classification*, ECML/PKDD 2020. [Paper](https://link.springer.com/article/10.1007/s10618-020-00690-z) · [Code](https://github.com/patrickzib/SFA) · [Talk](https://github.com/patrickzib/SFA/tree/master/slides)
 
 ## 2019
 
@@ -46,14 +46,14 @@ title: "Publications"
 
 ## 2018
 
-- P. Schäfer, U. Leser. *Multivariate Time Series Classification with WEASEL+MUSE*, 3rd ECML/PKDD Workshop on AALTD, 2018. [Code](https://github.com/patrickzib/SFA)
+- P. Schäfer, U. Leser. *Multivariate Time Series Classification with WEASEL+MUSE*, 3rd ECML/PKDD Workshop on AALTD, 2018. [Code](https://github.com/patrickzib/SFA) · [Talk](https://github.com/patrickzib/SFA/tree/master/slides)
 - S. Sprenger, P. Schäfer, U. Leser. *Multidimensional Range Queries on Modern Hardware*, Preprint. [Paper](https://arxiv.org/pdf/1801.03644.pdf)
 - P. Schäfer, D. Pflugmacher, P. Hostert, U. Leser. *Classifying land cover from satellite images using time series analytics*, EDBT/ICDT 2018 Workshops. [Paper](http://ceur-ws.org/Vol-2083/paper-02.pdf)
 - P. Schäfer, U. Leser. *Multivariate Time Series Classification with WEASEL+MUSE*, Preprint. [Paper](https://arxiv.org/abs/1711.11343) · [Code](https://github.com/patrickzib/SFA)
 
 ## 2017
 
-- P. Schäfer, U. Leser. *Fast and Accurate Time Series Classification with WEASEL*, CIKM 2017. [Paper](https://dl.acm.org/doi/abs/10.1145/3132847.3132980) · [Code](https://github.com/patrickzib/SFA)
+- P. Schäfer, U. Leser. *Fast and Accurate Time Series Classification with WEASEL*, CIKM 2017. [Paper](https://dl.acm.org/doi/abs/10.1145/3132847.3132980) · [Code](https://github.com/patrickzib/SFA) · [Talk](https://github.com/patrickzib/SFA/tree/master/slides)
 - P. Schäfer, U. Leser. *Benchmarking Univariate Time Series Classifiers*, BTW 2017. [Paper](https://www2.informatik.hu-berlin.de/~schaefpa/benchmarking.pdf)
 
 ## 2016

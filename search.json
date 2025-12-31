@@ -4,119 +4,84 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "I am Patrick Schäfer (Dr. rer. nat., Dipl. Inform.), a senior researcher at Humboldt-Universität zu Berlin. My work centers on machine learning for time series data, scalable similarity search, and vector databases. I design algorithms with rigorous guarantees and turn them into reliable software artifacts such as the open-source aeon toolkit.\nI obtained my doctorate at HU Berlin on scalable time series classification and have been part of research projects at Zuse Institute Berlin and in various industry collaborations focused on large-scale analytics."
+    "text": "Home\n          \n          \n            Publications\n          \n          \n            Teaching\n          \n          \n            About"
   },
   {
     "objectID": "about.html#biography",
     "href": "about.html#biography",
     "title": "About",
-    "section": "",
-    "text": "I am Patrick Schäfer (Dr. rer. nat., Dipl. Inform.), a senior researcher at Humboldt-Universität zu Berlin. My work centers on machine learning for time series data, scalable similarity search, and vector databases. I design algorithms with rigorous guarantees and turn them into reliable software artifacts such as the open-source aeon toolkit.\nI obtained my doctorate at HU Berlin on scalable time series classification and have been part of research projects at Zuse Institute Berlin and in various industry collaborations focused on large-scale analytics."
-  },
-  {
-    "objectID": "about.html#dissertation",
-    "href": "about.html#dissertation",
-    "title": "About",
-    "section": "Dissertation",
-    "text": "Dissertation\n\nScalable Time Series Classification for Data Analytics (Dissertation, 2015)"
-  },
-  {
-    "objectID": "about.html#organizer-roles",
-    "href": "about.html#organizer-roles",
-    "title": "About",
-    "section": "Organizer roles",
-    "text": "Organizer roles\n\nAALTD Workshop — Advanced Analytics and Learning on Temporal Data ('22, '23, '24, '25)\nHuman Activity Segmentation Challenge @ ECML/PKDD 2023\nGuest editor for the Special Issue on Time Series Classification (2019)\nECML 2024 tutorial: An Introduction to Machine Learning from Time Series"
-  },
-  {
-    "objectID": "about.html#awards-nominations",
-    "href": "about.html#awards-nominations",
-    "title": "About",
-    "section": "Awards & nominations",
-    "text": "Awards & nominations\n\nVLDB Distinguished Reviewer Award — 2025.\nTwo-time finalist for Humboldt-Universität zu Berlin’s “Preis für gute Lehre”: recognized in 2020 for Digital Teaching and in 2021 for Digitally Supported Teaching Concepts (finalists 2020, finalists 2021).\nAnnual Scholarship from the German Academic Exchange Service (DAAD) — 2005–2006.\nFirst place, ACM Programming Contest Berlin — 2005."
-  },
-  {
-    "objectID": "about.html#supervision",
-    "href": "about.html#supervision",
-    "title": "About",
-    "section": "Supervision",
-    "text": "Supervision\n\nBachelor theses: Time Series Motif Discovery; Visualizing Feature-Sets in TSC; Subword-Level TSC Framework; Analysis of TSC Classifiers with timeXplain; Ensembles for WEASEL/BOSS; SFA in MESSI; Motif Benchmark in Music/Lyrics; Open TSC with TEASER; Multivariate Segmentation with ClaSP; Motif Discovery in Audiobooks; Dilated Segmentation in ClaSP; Visual Features for Deepfakes; Multivariate Motif Discovery with Motiflets; Grouping Event Streams; Spikelet in ClaSP; Tennis-Stroke Classification with TSC Ensembles; Vulnerability Detection with LLMs; Deep Spatio-Temporal Land Cover Classification.\nStudy projects: Classification Score Profiles for Change Point Detection; Synthetic Time Series Generator for Motif Discovery; Latent Motif Discovery with Maximum Clique; Dilation in TSC; Open Set Recognition for Time Series.\nMaster theses: Synthetic Motif Generator; Time Series Segmentation; Variable-Length Latent Motif Discovery — Best Thesis Award 2022; Dilated Matrix Profile; Downsampling for TSC Visualization with ClaSP."
-  },
-  {
-    "objectID": "about.html#research-interests",
-    "href": "about.html#research-interests",
-    "title": "About",
-    "section": "Research interests",
-    "text": "Research interests\n\nTime series algorithms: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs), segmentation (ClaSP, ClaSS, ClaP), indexing & similarity search (SFA, SOFA)\nVector search, high-dimensional indexing, and approximate nearest neighbor algorithms\nExperimental benchmarking and reproducible pipelines for ML systems"
-  },
-  {
-    "objectID": "about.html#service",
-    "href": "about.html#service",
-    "title": "About",
-    "section": "Service",
-    "text": "Service\n\nProgram committees & reviews: KDD ’25 (Excellent Reviewer), VLDB ’25–’26 (Distinguished Reviewer ’25), ECML ’21–’24, AAAI ’21–’23, IJCAI ’20, ADBIS ’20, AALTD (since ’16), LDWA ’19, IEEE/CAA ’19, TKDE (since ’17), Data Mining and Knowledge Discovery (since ’16), IEEE Cybernetics (since ’18)\nProjects: Current — aeon (core developer). Past — sktime (former core developer), MoSGrid, Harness, Contrail, XtreemFS.\nAcademic self-governance: Institute-wide space planning lead for Computer Science (SoSe 2022–present); Committee for Teaching and Study (Kommission für Lehre und Studium)."
+    "section": "Biography",
+    "text": "Biography\nI am Patrick Schäfer (Dr. rer. nat., Dipl. Inform.), a senior researcher at Humboldt-Universität zu Berlin. My work centers on machine learning for time series data, scalable similarity search, and vector databases. I design algorithms with rigorous guarantees and turn them into reliable software artifacts such as the open-source aeon toolkit.\nI obtained my doctorate at HU Berlin on scalable time series classification and have been part of research projects at Zuse Institute Berlin and in various industry collaborations focused on large-scale analytics.\n\nDissertation\n\nScalable Time Series Classification for Data Analytics (Dissertation, 2015)\n\n\n\nOrganizer roles\n\nAALTD Workshop — Advanced Analytics and Learning on Temporal Data ('22, '23, '24, '25)\nHuman Activity Segmentation Challenge @ ECML/PKDD 2023\nGuest editor for the Special Issue on Time Series Classification (2019)\nECML 2024 tutorial: An Introduction to Machine Learning from Time Series\n\n\n\nAwards & nominations\n\nVLDB Distinguished Reviewer Award — 2025\nTwo-time finalist for Humboldt-Universität zu Berlin’s “Preis für gute Lehre”: recognized in 2020 for Digital Teaching and in 2021 for Digitally Supported Teaching Concepts (finalists 2020, finalists 2021)\nAnnual Scholarship from the German Academic Exchange Service (DAAD) — 2005–2006\nFirst place, ACM Programming Contest Berlin — 2005\n\n\n\nSupervision\n\nBachelor theses: Time Series Motif Discovery; Visualizing Feature-Sets in TSC; Subword-Level TSC Framework; Analysis of TSC Classifiers with timeXplain; Ensembles for WEASEL/BOSS; SFA in MESSI; Motif Benchmark in Music/Lyrics; Open TSC with TEASER; Multivariate Segmentation with ClaSP; Motif Discovery in Audiobooks; Dilated Segmentation in ClaSP; Visual Features for Deepfakes; Multivariate Motif Discovery with Motiflets; Grouping Event Streams; Spikelet in ClaSP; Tennis-Stroke Classification with TSC Ensembles; Vulnerability Detection with LLMs; Deep Spatio-Temporal Land Cover Classification.\nStudy projects: Classification Score Profiles for Change Point Detection; Synthetic Time Series Generator for Motif Discovery; Latent Motif Discovery with Maximum Clique; Dilation in TSC; Open Set Recognition for Time Series.\nMaster theses: Synthetic Motif Generator; Time Series Segmentation; Variable-Length Latent Motif Discovery — Best Thesis Award 2022; Dilated Matrix Profile; Downsampling for TSC Visualization with ClaSP.\n\n\n\nResearch interests\n\nTime series algorithms: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs), segmentation (ClaSP, ClaSS, ClaP), indexing & similarity search (SFA, SOFA)\nVector search, high-dimensional indexing, and approximate nearest neighbor algorithms\nExperimental benchmarking and reproducible pipelines for ML systems\n\n\n\nService\n\nProgram committees & reviews: KDD ’25 (Excellent Reviewer), VLDB ’25–’26 (Distinguished Reviewer ’25), ECML ’21–’24, AAAI ’21–’23, IJCAI ’20, ADBIS ’20, AALTD (since ’16), LDWA ’19, IEEE/CAA ’19, TKDE (since ’17), Data Mining and Knowledge Discovery (since ’16), IEEE Cybernetics (since ’18)\nProjects: Current — aeon (core developer). Past — sktime (former core developer), MoSGrid, Harness, Contrail, XtreemFS.\nAcademic self-governance: Institute-wide space planning lead for Computer Science (SoSe 2022–present); Committee for Teaching and Study (Kommission für Lehre und Studium)."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Dr. rer. nat., Dipl. Inform. — Senior researcher in time series analytics, vector search, and large-scale data management.\n\n📍 Humboldt-Universität zu Berlin, Department of Computer Science\n🔬 Core developer of the aeon toolkit\n✉️ patrick.schaefer@hu-berlin.de"
+    "text": "Home\n          \n          \n            Publications\n          \n          \n            Teaching\n          \n          \n            About"
   },
   {
-    "objectID": "index.html#patrick-schäfer",
-    "href": "index.html#patrick-schäfer",
+    "objectID": "index.html#home",
+    "href": "index.html#home",
     "title": "Home",
-    "section": "",
-    "text": "Dr. rer. nat., Dipl. Inform. — Senior researcher in time series analytics, vector search, and large-scale data management.\n\n📍 Humboldt-Universität zu Berlin, Department of Computer Science\n🔬 Core developer of the aeon toolkit\n✉️ patrick.schaefer@hu-berlin.de"
+    "section": "Home",
+    "text": "Home\nI design algorithms for machine learning on time series, build scalable vector search systems, and turn research results into reliable open-source software. My work spans theory, benchmarking methodology, and end-to-end engineering."
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Home",
     "section": "Contact",
-    "text": "Contact\n\n\nPostal address\nHumboldt-Universität zu Berlin\nDepartment of Computer Science\nUnter den Linden 6\n10099 Berlin\nVisiting address\nRudower Chaussee 25\n12489 Berlin — Room 4.407\n\n\nPhone: 030-2093-41287\n\nEmail: patrick.schaefer@hu-berlin.de\n\nGoogle Scholar: profile\n\nDBLP: pid/89/11002-1\n\nORCID: 0000-0003-2244-6065\n\nGitHub: patrickzib"
+    "text": "Contact\n\n\nPostal address\nHumboldt-Universität zu Berlin Department of Computer Science Unter den Linden 6 10099 Berlin\n\n\nVisiting address\nRudower Chaussee 25 12489 Berlin Room 4.407\nPhone: 030-2093-41287"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Home",
     "section": "Research interests",
-    "text": "Research interests\n\nTime series: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs), segmentation (ClaSP, ClaSS, ClaP), similarity search (SFA, SOFA)\nVector search and high-dimensional indexing\nBenchmarking methodology and reproducible experimentation"
+    "text": "Research interests\n\nTime series analytics: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs), segmentation (ClaSP, ClaSS, ClaP)\nVector search and high-dimensional indexing for similarity search at scale\nBenchmarking methodology and reproducible experimentation for ML systems"
   },
   {
     "objectID": "index.html#teaching-highlights",
     "href": "index.html#teaching-highlights",
     "title": "Home",
     "section": "Teaching highlights",
-    "text": "Teaching highlights\n\nWiSe 2025/26: Data Science mit Python (Vorlesung & Übung) · Vector Search (Master)\nSoSe 2025: Angewandtes Maschinelles Lernen (Vorlesung & Übung)\nWiSe 2024/25: Data Warehousing and Data Mining (Vorlesung & Übung)\nSoSe 2024: Information Retrieval (Übung) · Algorithmen und Datenstrukturen (Übung)\nWiSe 2023/24: Angewandtes Maschinelles Lernen (Vorlesung & Übung), Algorithmen und Methoden der Zeitreihenanalyse (Master)\n\nSee Teaching for the full archive."
+    "text": "Teaching highlights\nRecent courses (full archive on Teaching):\n\nWiSe 2025/26: Data Science mit Python · Vector Search (Master)\nSoSe 2025: Angewandtes Maschinelles Lernen\nWiSe 2024/25: Data Warehousing and Data Mining\nSoSe 2024: Information Retrieval · Algorithmen und Datenstrukturen\nWiSe 2023/24: Angewandtes Maschinelles Lernen · Algorithmen und Methoden der Zeitreihenanalyse"
   },
   {
     "objectID": "index.html#selected-publications",
     "href": "index.html#selected-publications",
     "title": "Home",
     "section": "Selected publications",
-    "text": "Selected publications\nRecent highlights — the full list is on Publications.\n\nCLaP — State Detection from Time Series, PVLDB 2026. Paper · Code\nFast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025. Paper · Code\nMotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025. Paper\nDiscovering Leitmotifs in Multidimensional Time Series, PVLDB 2025. Paper · Code\naeon: a Python Toolkit for Learning from Time Series, JMLR 2024. Paper\nRaising the ClaSS of Streaming Time Series Segmentation, PVLDB 2024. Paper\nMotiflets — Simple and Accurate Detection of Motifs in Time Series, PVLDB 2023. Paper · Code\nBake off redux: A Review and Experimental Evaluation of Recent Time Series Classification Algorithms DMKD, 2024. Paper"
+    "text": "Selected publications\nRecent highlights—see Publications for the full list.\n\nCLaP — State Detection from Time Series, PVLDB 2026.\nFast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025.\nMotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025.\nDiscovering Leitmotifs in Multidimensional Time Series, PVLDB 2025.\naeon: a Python Toolkit for Learning from Time Series, JMLR 2024.\nRaising the ClaSS of Streaming Time Series Segmentation, PVLDB 2024.\nMotiflets — Simple and Accurate Detection of Motifs in Time Series, PVLDB 2023.\nBake off redux: A Review and Experimental Evaluation of Recent Time Series Classification Algorithms DMKD, 2024."
   },
   {
     "objectID": "index.html#service-projects",
     "href": "index.html#service-projects",
     "title": "Home",
     "section": "Service & projects",
-    "text": "Service & projects\n\nOrganizer: AALTD Workshop (2022–2025), Human Activity Segmentation Challenge @ ECML/PKDD 2023\nProgram committees & reviewing: KDD ’25, VLDB ’25–’26, ECML ’21–’24, AAAI ’21–’23, IJCAI ’20, TKDE, DMKD, IEEE Cybernetics, and more\nCurrent project: aeon — open-source Python toolkit for machine learning on time series\nPast projects: sktime (former core dev), MoSGrid, Harness, Contrail, XtreemFS"
+    "text": "Service & projects\n\nOrganizer: AALTD Workshop (2022–2025), Human Activity Segmentation Challenge @ ECML/PKDD 2023\nProgram committees & reviews: KDD ’25, VLDB ’25–’26, ECML ’21–’24, AAAI ’21–’23, IJCAI ’20, TKDE, DMKD, IEEE Cybernetics, and more\nCurrent open-source focus: aeon — machine learning from time series\nPast projects: sktime (former core developer), MoSGrid, Harness, Contrail, XtreemFS"
   },
   {
     "objectID": "index.html#open-source-frameworks",
     "href": "index.html#open-source-frameworks",
     "title": "Home",
     "section": "Open-source frameworks",
-    "text": "Open-source frameworks\n\nSFA/BOSS/WEASEL Java toolkit — scalable symbolic Fourier approximations, BOSS, BOSS VS, WEASEL\nMotiflets — Python motif discovery for time series\nLeitmotifs — subdimensional motif discovery\naeon toolkit — Python framework for learning from time series\nClaSS — Classification Score Stream — streaming segmentation\nCLaP — State Detection from Time Series"
+    "text": "Open-source frameworks\n\nSFA/BOSS/WEASEL Java toolkit — scalable symbolic Fourier approximations\nMotiflets — Python motif discovery for time series\nLeitmotifs — subdimensional motif discovery\naeon toolkit — Python framework for time series ML\nClaSS — streaming segmentation\nCLaP — state detection from time series"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Below is a compact overview of the courses I teach."
+    "text": "Home\n          \n          \n            Publications\n          \n          \n            Teaching\n          \n          \n            About"
+  },
+  {
+    "objectID": "teaching.html#teaching",
+    "href": "teaching.html#teaching",
+    "title": "Teaching",
+    "section": "Teaching",
+    "text": "Teaching\nBelow is a compact overview of the courses I teach."
   },
   {
     "objectID": "teaching.html#lecture-courses",
@@ -144,21 +109,28 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "A. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, PVLDB, Boston, MA, USA, 2026. Paper · Code"
+    "text": "Home\n          \n          \n            Publications\n          \n          \n            Teaching\n          \n          \n            About"
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications",
+    "section": "Publications",
+    "text": "Publications"
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
     "title": "Publications",
-    "section": "",
-    "text": "A. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, PVLDB, Boston, MA, USA, 2026. Paper · Code"
+    "section": "2026",
+    "text": "2026\n\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, PVLDB, Boston, MA, USA, 2026. Paper · Code"
   },
   {
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
     "title": "Publications",
     "section": "2025",
-    "text": "2025\n\nL. Feremans, P. Schäfer, W. Meert. MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025, Porto, Portugal. Paper\nP. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025, Hong Kong SAR, China. Paper · Code\nP. Schäfer, U. Leser. Discovering Leitmotifs in Multidimensional Time Series, PVLDB, London, UK, 2025. Paper · Code · Talk\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, Preprint. Paper draft"
+    "text": "2025\n\nL. Feremans, P. Schäfer, W. Meert. MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025, Porto, Portugal. Paper\nP. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025, Hong Kong SAR, China. Paper · Code\nP. Schäfer, U. Leser. Discovering Leitmotifs in Multidimensional Time Series, PVLDB 2025. Paper · Code · Talk\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, Preprint. Paper draft"
   },
   {
     "objectID": "publications.html#section-2",
@@ -207,7 +179,7 @@
     "href": "publications.html#section-8",
     "title": "Publications",
     "section": "2018",
-    "text": "2018\n\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, 3rd ECML/PKDD Workshop on AALTD, 2018. Code · Talk\nS. Sprenger, P. Schäfer, U. Leser. Multidimensional Range Queries on Modern Hardware, Preprint. Paper\nP. Schäfer, D. Pflugmacher, P. Hostert, U. Leser. Classifying land cover from satellite images using time series analytics, EDBT/ICDT 2018 Workshops. Paper\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, Preprint. Paper · Code"
+    "text": "2018\n\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, 3rd ECML/PKDD Workshop on AALTD, 2018. Code · Talk\nS. Sprenger, P. Schäfer, U. Leser. Multidimensional Range Queries on Modern Hardware, Preprint. Paper\nP. Schäфер, D. Pflugmacher, P. Hostert, U. Leser. Classifying land cover from satellite images using time series analytics, EDBT/ICDT 2018 Workshops. Paper\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, Preprint. Paper · Code"
   },
   {
     "objectID": "publications.html#section-9",

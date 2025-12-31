@@ -3,6 +3,7 @@ project:
   output-dir: _site
   resources:
     - old_html/**
+    - assets/js/theme.js
 
 execute:
   freeze: auto

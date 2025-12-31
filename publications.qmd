@@ -1,6 +1,9 @@
 ---
 title: "Publications"
+page-layout: full
 ---
+
+## Publications
 
 ## 2026
 
@@ -10,7 +13,7 @@ title: "Publications"
 
 - L. Feremans, P. Schäfer, W. Meert. *MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series*, ECML/PKDD 2025, Porto, Portugal. [Paper](https://link.springer.com/chapter/10.1007/978-3-032-06109-6_27)
 - P. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. *Fast and Exact Similarity Search in less than a Blink of an Eye*, ICDE 2025, Hong Kong SAR, China. [Paper](https://ieeexplore.ieee.org/document/11112946) · [Code](https://github.com/patrickzib/MESSI-SFA)
-- P. Schäfer, U. Leser. *Discovering Leitmotifs in Multidimensional Time Series*, PVLDB, London, UK, 2025. [Paper](https://www.vldb.org/pvldb/vol18/p377-schafer.pdf) · [Code](https://github.com/patrickzib/leitmotifs) · [Talk](https://github.com/patrickzib/leitmotifs/blob/main/slides/slides_vldb.pdf)
+- P. Schäfer, U. Leser. *Discovering Leitmotifs in Multidimensional Time Series*, PVLDB 2025. [Paper](https://www.vldb.org/pvldb/vol18/p377-schafer.pdf) · [Code](https://github.com/patrickzib/leitmotifs) · [Talk](https://github.com/patrickzib/leitmotifs/blob/main/slides/slides_vldb.pdf)
 - A. Ermshaus, P. Schäfer, U. Leser. *CLaP — State Detection from Time Series*, Preprint. [Paper draft](https://arxiv.org/abs/2504.01783)
 
 ## 2024
@@ -48,7 +51,7 @@ title: "Publications"
 
 - P. Schäfer, U. Leser. *Multivariate Time Series Classification with WEASEL+MUSE*, 3rd ECML/PKDD Workshop on AALTD, 2018. [Code](https://github.com/patrickzib/SFA) · [Talk](https://github.com/patrickzib/SFA/tree/master/slides)
 - S. Sprenger, P. Schäfer, U. Leser. *Multidimensional Range Queries on Modern Hardware*, Preprint. [Paper](https://arxiv.org/pdf/1801.03644.pdf)
-- P. Schäfer, D. Pflugmacher, P. Hostert, U. Leser. *Classifying land cover from satellite images using time series analytics*, EDBT/ICDT 2018 Workshops. [Paper](http://ceur-ws.org/Vol-2083/paper-02.pdf)
+- P. Schäфер, D. Pflugmacher, P. Hostert, U. Leser. *Classifying land cover from satellite images using time series analytics*, EDBT/ICDT 2018 Workshops. [Paper](http://ceur-ws.org/Vol-2083/paper-02.pdf)
 - P. Schäfer, U. Leser. *Multivariate Time Series Classification with WEASEL+MUSE*, Preprint. [Paper](https://arxiv.org/abs/1711.11343) · [Code](https://github.com/patrickzib/SFA)
 
 ## 2017
@@ -71,7 +74,6 @@ title: "Publications"
 - I. Potamitis, P. Schäfer. *On classifying insects from their wing-beat: New results*, Ecology and acoustics, Paris, France 2014.
 - P. Schäfer. *Towards Time Series Classification without Human Preprocessing*, MLDM 2014. [Paper](https://www2.informatik.hu-berlin.de/shotgun_distance.pdf) · [Code](https://github.com/patrickzib/SFA)
 - Jens Krüger et al. *The MoSGrid science gateway – A complete solution for molecular simulations*, Journal of Chemical Theory and Computation, 2014. [Paper](https://pubs.acs.org/doi/abs/10.1021/ct500159h)
-
 
 ## 2013 & earlier
 

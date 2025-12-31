@@ -11,30 +11,22 @@ website:
   title: "Patrick Schäfer"
   site-url: "https://patrickzib.github.io/webpage/"
   repo-url: "https://github.com/patrickzib/webpage"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: publications.qmd
-        text: Publications
-      - href: teaching.qmd
-        text: Teaching
-    right:
-      - icon: github
-        href: https://github.com/patrickzib
-      - icon: linkedin
-        href: https://www.linkedin.com/in/patrickzib/
-      - text: ORCID
-        href: https://orcid.org/0000-0003-2244-6065
-      - text: DBLP
-        href: https://dblp.org/pid/89/11002-1.html
-      - text: Scholar
-        href: https://scholar.google.de/citations?user=j0QxZSYAAAAJ&hl=de
+  description: "Senior researcher in time series analytics, similarity search, and data management."
+  page-navigation: false
 
 format:
   html:
-    theme: cosmo
-    css: styles.scss
-    toc: true
+    theme: default
+    css:
+      - assets/css/main.css
+      - assets/css/academicons.css
+      - assets/css/academicons.min.css
+      - assets/css/collapse.css
+      - styles.scss
+    toc: false
+    include-before-body:
+      - partials/masthead.html
+      - partials/sidebar-open.html
+    include-after-body:
+      - partials/sidebar-close.html
+      - partials/scripts.html

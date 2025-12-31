@@ -10,8 +10,8 @@ execute:
 
 website:
   title: "Patrick Schäfer"
-  site-url: "https://patrickzib.github.io/webpage/"
-  repo-url: "https://github.com/patrickzib/webpage"
+  site-url: "https://patrickzib.github.io/"
+  repo-url: "https://github.com/patrickzib/patrickzib.github.io"
   description: "Senior researcher in time series analytics, similarity search, and data management."
   page-navigation: false
 

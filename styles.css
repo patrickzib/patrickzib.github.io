@@ -1,5 +1,3 @@
-$wrapper-max: 900px;
-
 :root {
   scroll-behavior: smooth;
 }
@@ -33,7 +31,7 @@ main.content {
 }
 
 #academic-wrapper {
-  max-width: $wrapper-max;
+  max-width: 900px;
   margin: 0 auto;
   padding: 1.5rem 1.5rem 4rem;
 }

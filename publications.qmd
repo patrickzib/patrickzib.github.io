@@ -5,6 +5,8 @@ page-layout: full
 
 ## Publications
 
+My google scholar profile is available [here](https://scholar.google.de/citations?user=j0QxZSYAAAAJ&hl=de).
+
 ## 2026
 
 - A. Ermshaus, P. Schäfer, U. Leser. *CLaP — State Detection from Time Series*, PVLDB, Boston, MA, USA, 2026. [Paper](https://www.vldb.org/pvldb/vol19/p70-ermshaus.pdf) · [Code](https://github.com/ermshaua/classification-label-profile)

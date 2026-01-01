@@ -17,13 +17,14 @@ website:
 
 format:
   html:
-    theme: default
+    theme:
+      - default
+      - styles.scss
     css:
       - assets/css/main.css
       - assets/css/academicons.css
       - assets/css/academicons.min.css
       - assets/css/collapse.css
-      - styles.scss
     toc: false
     include-before-body:
       - partials/masthead.html

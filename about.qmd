@@ -5,7 +5,13 @@ page-layout: full
 
 ## Biography
 
-I am Patrick Schäfer (Dr. rer. nat., Dipl. Inform.), a senior researcher at Humboldt-Universität zu Berlin. My work centers on machine learning for time series data, scalable similarity search, and vector databases. I design algorithms with rigorous guarantees and turn them into reliable software artifacts such as the open-source [**aeon** toolkit](https://www.aeon-toolkit.org/).
+I am Patrick Schäfer (Dr. rer. nat., Dipl. Inform.), a senior researcher at
+Humboldt-Universität zu Berlin at the Chair of
+[Wissensmanagement in der Bioinformatik](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi).
+My work centers on machine learning for time
+series data, scalable similarity search, and vector databases. I design algorithms
+with rigorous guarantees and turn them into reliable software artifacts such as the
+open-source [**aeon** toolkit](https://www.aeon-toolkit.org/).
 
 I obtained my doctorate at HU Berlin on scalable time series classification and have been part of research projects at Zuse Institute Berlin and in various industry collaborations focused on large-scale analytics.
 
@@ -16,26 +22,42 @@ I obtained my doctorate at HU Berlin on scalable time series classification and 
 ### Organizer roles
 
 - AALTD Workshop — Advanced Analytics and Learning on Temporal Data (`'22, '23, '24, '25`)
+- ECML 2024 tutorial: [An Introduction to Machine Learning from Time Series](https://aeon-tutorials.github.io/ECML-2024/)
 - Human Activity Segmentation Challenge @ ECML/PKDD 2023
 - Guest editor for the Special Issue on Time Series Classification (2019)
-- ECML 2024 tutorial: [An Introduction to Machine Learning from Time Series](https://aeon-tutorials.github.io/ECML-2024/)
 
 ### Awards & nominations
 
 - VLDB Distinguished Reviewer Award — [2025](https://vldb.org/2025/?conference-awards)
-- Two-time finalist for Humboldt-Universität zu Berlin’s “Preis für gute Lehre”: recognized in 2020 for Digital Teaching and in 2021 for Digitally Supported Teaching Concepts ([finalists 2020](https://bolognalab.hu-berlin.de/de/gl/pfgl/auswahl/finalisten/finalist_innen-2020), [finalists 2021](https://bolognalab.hu-berlin.de/de/gl/pfgl/auswahl/finalisten/finalist-innen-2021))
+- Two-time finalist for Humboldt-Universität zu Berlin’s “Preis für gute Lehre”:
+recognized in 2020 for Digital Teaching and in 2021 for Digitally Supported Teaching
+Concepts ([finalists 2020](https://bolognalab.hu-berlin.de/de/gl/pfgl/auswahl/finalisten/finalist_innen-2020), [finalists 2021](https://bolognalab.hu-berlin.de/de/gl/pfgl/auswahl/finalisten/finalist-innen-2021))
 - Annual Scholarship from the German Academic Exchange Service (DAAD) — 2005–2006
 - First place, ACM Programming Contest Berlin — 2005
 
 ### Supervision
 
-- **Bachelor theses:** Time Series Motif Discovery; Visualizing Feature-Sets in TSC; Subword-Level TSC Framework; Analysis of TSC Classifiers with timeXplain; Ensembles for WEASEL/BOSS; SFA in MESSI; Motif Benchmark in Music/Lyrics; Open TSC with TEASER; Multivariate Segmentation with ClaSP; Motif Discovery in Audiobooks; Dilated Segmentation in ClaSP; Visual Features for Deepfakes; Multivariate Motif Discovery with Motiflets; Grouping Event Streams; Spikelet in ClaSP; Tennis-Stroke Classification with TSC Ensembles; Vulnerability Detection with LLMs; Deep Spatio-Temporal Land Cover Classification.
-- **Study projects:** Classification Score Profiles for Change Point Detection; Synthetic Time Series Generator for Motif Discovery; Latent Motif Discovery with Maximum Clique; Dilation in TSC; Open Set Recognition for Time Series.
-- **Master theses:** Synthetic Motif Generator; Time Series Segmentation; Variable-Length Latent Motif Discovery — Best Thesis Award 2022; Dilated Matrix Profile; Downsampling for TSC Visualization with ClaSP.
+- **Bachelor theses:** Time Series Motif Discovery; Visualizing Feature-Sets in TSC;
+Subword-Level TSC Framework; Analysis of TSC Classifiers with timeXplain; Ensembles for
+WEASEL/BOSS; SFA in MESSI; Motif Benchmark in Music/Lyrics; Open TSC with TEASER;
+Multivariate Segmentation with ClaSP; Motif Discovery in Audiobooks; Dilated
+Segmentation in ClaSP; Visual Features for Deepfakes; Multivariate Motif Discovery
+with Motiflets; Grouping Event Streams; Spikelet in ClaSP; Tennis-Stroke Classification
+with TSC Ensembles; Vulnerability Detection with LLMs; Deep Spatio-Temporal Land Cover
+Classification.
+
+- **Study projects:** Classification Score Profiles for Change Point Detection;
+Synthetic Time Series Generator for Motif Discovery; Latent Motif Discovery with
+Maximum Clique; Dilation in TSC; Open Set Recognition for Time Series.
+
+- **Master theses:** Synthetic Motif Generator; Time Series Segmentation;
+Variable-Length Latent Motif Discovery — **Best Thesis Award 2022**; Dilated Matrix Profile;
+Downsampling for TSC Visualization with ClaSP.
 
 ### Research interests
 
-- Time series algorithms: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs), segmentation (ClaSP, ClaSS, ClaP), indexing & similarity search (SFA, SOFA)
+- Time series algorithms: classification (BOSS, WEASEL), motif discovery (Motiflets,
+Leitmotifs), segmentation (ClaSP, ClaSS, ClaP), indexing & similarity search (SFA, SOFA)
 - Vector search, high-dimensional indexing, and approximate nearest neighbor algorithms
 - Experimental benchmarking and reproducible pipelines for ML systems
 

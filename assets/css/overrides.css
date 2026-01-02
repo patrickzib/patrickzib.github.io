@@ -7,17 +7,6 @@
   padding-right: 0;
 }
 
-.masthead__inner-wrap {
-  max-width: none;
-  width: 100%;
-  margin-left: 0;
-  margin-right: 0;
-  padding-left: 0.25rem;
-  padding-right: 0.25rem;
-  box-sizing: border-box;
-}
-
-
 #main > .sidebar {
   margin-bottom: 0;
   padding-bottom: 0;

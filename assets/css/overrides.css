@@ -1,0 +1,26 @@
+/* Layout overrides to counter base theme spacing. */
+#main {
+  max-width: none;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.masthead__inner-wrap {
+  max-width: 1000px;
+  margin-left: 0;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#site-nav .visible-links {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+#main > .sidebar {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}

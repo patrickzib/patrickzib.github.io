@@ -17,41 +17,6 @@
   box-sizing: border-box;
 }
 
-#site-nav .visible-links {
-  margin-left: 0;
-  padding-left: 0;
-  padding-right: 2.75rem;
-}
-
-#site-nav {
-  padding-left: 0;
-  padding-right: 0;
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-}
-
-.masthead__menu,
-.greedy-nav {
-  width: 100%;
-  max-width: 100%;
-  box-sizing: border-box;
-  min-width: 0;
-}
-
-.greedy-nav {
-  position: relative;
-  overflow: hidden;
-}
-
-.greedy-nav button {
-  right: 0.25rem;
-  left: auto;
-}
-
-.greedy-nav .visible-links {
-  padding-right: 2.75rem;
-}
 
 #main > .sidebar {
   margin-bottom: 0;

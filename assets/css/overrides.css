@@ -24,3 +24,27 @@
   margin-bottom: 0;
   padding-bottom: 0;
 }
+
+#quarto-content {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+main.content,
+main.content.column-page,
+main#quarto-document-content {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.quarto-container,
+.page-columns,
+.page-rows-contents,
+.page-layout-full {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 0;
+  margin-right: 0;
+}

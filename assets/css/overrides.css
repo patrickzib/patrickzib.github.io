@@ -20,6 +20,16 @@
   padding-left: 0;
 }
 
+#site-nav > button {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+#site-nav {
+  padding-left: 0;
+  padding-right: 0;
+}
+
 #main > .sidebar {
   margin-bottom: 0;
   padding-bottom: 0;

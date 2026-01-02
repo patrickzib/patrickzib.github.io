@@ -48,27 +48,18 @@
   min-width: 0;
 }
 
-.greedy-nav button {
-  position: static;
-  margin-left: auto;
+.greedy-nav {
+  position: relative;
+  overflow: hidden;
 }
 
-.greedy-nav {
-  display: flex;
-  align-items: center;
+.greedy-nav button {
+  right: 0.25rem;
+  left: auto;
 }
 
 .greedy-nav .visible-links {
-  display: flex;
-  align-items: center;
-  flex-wrap: nowrap;
-  min-width: 0;
-  overflow: hidden;
-  padding-right: 0.75rem;
-}
-
-.greedy-nav .hidden-links {
-  right: 0.25rem;
+  padding-right: 2.75rem;
 }
 
 #main > .sidebar {

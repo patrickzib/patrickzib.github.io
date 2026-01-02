@@ -23,6 +23,10 @@
 #site-nav > button {
   margin-left: 0;
   margin-right: 0;
+  left: 0;
+  right: auto;
+  position: relative;
+  padding-left: 0;
 }
 
 #site-nav {

@@ -105,6 +105,41 @@
     "text": "Seminars & project work\n\nAlgorithmen und Methoden der Zeitreihenanalyse (time-series seminar)\nWiSe 2023/24 (Master); WiSe 2022/23 (Master); SoSe 2022 (Bachelor).\nVector Search (Master seminar)\nWiSe 2025/26.\nImplementierung eines Brettspiels … (semester project)\nWiSe 2018/19; WiSe 2016/17.\nLandnutzungsklassifikation (Master seminar)\nWiSe 2018/19.\nVerteilte NoSQL-Datenbanken (seminar)\nSoSe 2015; SoSe 2013; SoSe 2012."
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Home",
+    "section": "",
+    "text": "Home\n          \n          \n            Publications\n          \n          \n            Teaching\n          \n          \n            About"
+  },
+  {
+    "objectID": "research.html#pillar-1-fundamental-methods-for-time-series-analytics",
+    "href": "research.html#pillar-1-fundamental-methods-for-time-series-analytics",
+    "title": "Home",
+    "section": "Pillar 1: Fundamental methods for time series analytics",
+    "text": "Pillar 1: Fundamental methods for time series analytics\nQuestion. How can we design simple, robust, and principled methods that generalize across domains and datasets?\nContributions - Unsupervised pattern discovery for time series (motifs, change points, segmentation) - - Benchmark-driven research with reproducible evaluation pipelines"
+  },
+  {
+    "objectID": "research.html#pillar-2-scalable-similarity-search-and-vector-databases",
+    "href": "research.html#pillar-2-scalable-similarity-search-and-vector-databases",
+    "title": "Home",
+    "section": "Pillar 2: Scalable similarity search and vector databases",
+    "text": "Pillar 2: Scalable similarity search and vector databases\nQuestion. How can similarity search be made efficient, reliable, and transparent at scale?\nContributions - Scalable similarity search for high-dimensional and time series data - Indexing and pruning strategies with explicit trade-offs between accuracy, latency, and memory - System-oriented evaluation under realistic workloads"
+  },
+  {
+    "objectID": "research.html#pillar-3-resource-efficient-ml-for-streaming-data",
+    "href": "research.html#pillar-3-resource-efficient-ml-for-streaming-data",
+    "title": "Home",
+    "section": "Pillar 3: Resource-efficient ML for streaming data",
+    "text": "Pillar 3: Resource-efficient ML for streaming data"
+  },
+  {
+    "objectID": "research.html#how-the-pillars-connect",
+    "href": "research.html#how-the-pillars-connect",
+    "title": "Home",
+    "section": "How the pillars connect",
+    "text": "How the pillars connect\nThe three pillars form a coherent research program. Fundamental time series methods define the core analytical primitives, scalable similarity search enables efficient retrieval and system integration, and resource-efficient streaming ML allows deployment in continuous and constrained environments.\nTogether, they address central challenges of modern data-intensive systems."
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",

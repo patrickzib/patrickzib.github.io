@@ -56,3 +56,9 @@ main#quarto-document-content {
   max-width: none;
   width: 100%;
 }
+
+/* Remove Quarto grid gutters that add left spacing. */
+.page-columns {
+  gap: 0;
+  grid-template-columns: minmax(0, 1fr);
+}

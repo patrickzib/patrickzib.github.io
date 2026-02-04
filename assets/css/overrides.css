@@ -1,0 +1,51 @@
+/* Layout overrides to counter base theme spacing. */
+#main {
+  max-width: none;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#main > .sidebar {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+#quarto-content {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+main.content,
+main.content.column-page,
+main#quarto-document-content {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.quarto-container,
+.page-columns,
+.page-rows-contents,
+.page-layout-full {
+  padding-left: 0;
+  padding-right: 0;
+  margin-left: 0;
+  margin-right: 0;
+  max-width: none;
+  width: 100%;
+}
+
+#quarto-content,
+#quarto-document-content {
+  max-width: none;
+  width: 100%;
+}
+
+/* Remove Quarto grid gutters that add left spacing. */
+.page-columns {
+  gap: 0;
+  grid-template-columns: minmax(0, 1fr);
+}

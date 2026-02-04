@@ -25,6 +25,7 @@ format:
       - assets/css/academicons.css
       - assets/css/academicons.min.css
       - assets/css/collapse.css
+      - assets/css/overrides.css
     toc: false
     include-before-body:
       - partials/masthead.html

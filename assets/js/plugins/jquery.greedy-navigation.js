@@ -71,7 +71,13 @@ function updateNav() {
 
 // Window listeners
 
+var lastWindowWidth = window.innerWidth;
 $(window).on('resize', function () {
+  var currentWidth = window.innerWidth;
+  if (currentWidth === lastWindowWidth) {
+    return;
+  }
+  lastWindowWidth = currentWidth;
   updateNav();
 });
 screen.orientation.addEventListener("change", function () {

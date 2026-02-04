@@ -1,4 +1,8 @@
 /* Layout overrides to counter base theme spacing. */
+body {
+  padding-top: 0;
+}
+
 #main {
   max-width: none;
   margin-left: 0;

@@ -35,6 +35,12 @@ Room 4.407<br/>
 :::
 
 ::: {.home-section}
+## News / Updates
+
+- I submitted my habilitation thesis on **23rd April '26** at the *Humboldt-University of Berlin*. 
+The work focuses on *Fundamental Methods for Time Series Analytics*.
+
+::: {.home-section}
 ## Research interests
 
 - Time series analytics: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs), segmentation (ClaSP, ClaSS, ClaP)
@@ -47,11 +53,11 @@ Room 4.407<br/>
 
 Recent courses (full archive on [Teaching](teaching.html)):
 
+- **SoSe 2026:** Angewandtes Maschinelles Lernen · Modern Information Retrieval
 - **WiSe 2025/26:** Data Science mit Python · Vector Search (Master)
 - **SoSe 2025:** Angewandtes Maschinelles Lernen
 - **WiSe 2024/25:** Data Warehousing and Data Mining
 - **SoSe 2024:** Information Retrieval · Algorithmen und Datenstrukturen
-- **WiSe 2023/24:** Angewandtes Maschinelles Lernen · Algorithmen und Methoden der Zeitreihenanalyse
 :::
 
 ::: {.home-section}

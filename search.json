@@ -35,6 +35,13 @@
     "text": "Contact\n\n\nPostal address\nHumboldt-Universität zu Berlin Department of Computer Science Unter den Linden 6 10099 Berlin\n\n\nVisiting address\nRudower Chaussee 25 12489 Berlin Room 4.407\nPhone: 030-2093-41287"
   },
   {
+    "objectID": "index.html#news-updates",
+    "href": "index.html#news-updates",
+    "title": "Home",
+    "section": "News / Updates",
+    "text": "News / Updates\n\nI submitted my habilitation thesis on 23rd April ’26 at the Humboldt-University of Berlin. The work focuses on Fundamental Methods for Time Series Analytics."
+  },
+  {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
     "title": "Home",
@@ -46,7 +53,7 @@
     "href": "index.html#teaching-highlights",
     "title": "Home",
     "section": "Teaching highlights",
-    "text": "Teaching highlights\nRecent courses (full archive on Teaching):\n\nWiSe 2025/26: Data Science mit Python · Vector Search (Master)\nSoSe 2025: Angewandtes Maschinelles Lernen\nWiSe 2024/25: Data Warehousing and Data Mining\nSoSe 2024: Information Retrieval · Algorithmen und Datenstrukturen\nWiSe 2023/24: Angewandtes Maschinelles Lernen · Algorithmen und Methoden der Zeitreihenanalyse"
+    "text": "Teaching highlights\nRecent courses (full archive on Teaching):\n\nSoSe 2026: Angewandtes Maschinelles Lernen · Modern Information Retrieval\nWiSe 2025/26: Data Science mit Python · Vector Search (Master)\nSoSe 2025: Angewandtes Maschinelles Lernen\nWiSe 2024/25: Data Warehousing and Data Mining\nSoSe 2024: Information Retrieval · Algorithmen und Datenstrukturen"
   },
   {
     "objectID": "index.html#selected-publications",
@@ -88,14 +95,14 @@
     "href": "teaching.html#lecture-courses",
     "title": "Teaching",
     "section": "Lecture courses",
-    "text": "Lecture courses\n\nData Science mit Python (lecture & exercise)\nWiSe 2025/26; WiSe 2022/23; WiSe 2021/22.\nAngewandtes Maschinelles Lernen (lecture & exercise)\nSoSe 2025; WiSe 2023/24; SoSe 2022; SoSe 2020.\nData Warehousing and Data Mining (lecture & exercise)\nWiSe 2024/25; WiSe 2020/21; WiSe 2017/18."
+    "text": "Lecture courses\n\nData Science mit Python (lecture & exercise)\nWiSe 2025/26; WiSe 2022/23; WiSe 2021/22.\nAngewandtes Maschinelles Lernen (lecture & exercise)\nSoSe 2026; SoSe 2025; WiSe 2023/24; SoSe 2022; SoSe 2020.\nData Warehousing and Data Mining (lecture & exercise)\nWiSe 2024/25; WiSe 2020/21; WiSe 2017/18."
   },
   {
     "objectID": "teaching.html#exercises",
     "href": "teaching.html#exercises",
     "title": "Teaching",
     "section": "Exercises",
-    "text": "Exercises\n\nInformation Retrieval (exercise)\nSoSe 2024; WiSe 2016/17.\nAlgorithmen und Datenstrukturen (exercise)\nSoSe 2024; SoSe 2023; SoSe 2020; SoSe 2019; SoSe 2018; SoSe 2017; SoSe 2016.\nImplementierung von Datenbanken (exercise)\nWiSe 2019/20."
+    "text": "Exercises\n\n(Modern) Information Retrieval (exercise)\nSoSe 2026; SoSe 2024; WiSe 2016/17.\nAlgorithmen und Datenstrukturen (exercise)\nSoSe 2024; SoSe 2023; SoSe 2020; SoSe 2019; SoSe 2018; SoSe 2017; SoSe 2016.\nImplementierung von Datenbanken (exercise)\nWiSe 2019/20."
   },
   {
     "objectID": "teaching.html#seminars-project-work",

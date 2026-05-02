@@ -5,7 +5,7 @@ page-layout: full
 
 ## Biography
 
-I am Patrick Schäfer (Dr. rer. nat., Dipl. Inform.), a senior researcher at
+I am Patrick Schäfer (Dr. rer. nat., Dipl.-Inform.), a senior researcher at
 Humboldt-Universität zu Berlin at the Chair of
 [Wissensmanagement in der Bioinformatik](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi).
 My work centers on machine learning for time

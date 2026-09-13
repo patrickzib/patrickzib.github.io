@@ -129,89 +129,96 @@
     "objectID": "publications.html#section",
     "href": "publications.html#section",
     "title": "Publications",
-    "section": "2026",
-    "text": "2026\n\nP. Schäfer, U. Leser, M. Ceccarello. SCAMPI – Fast Pattern Discovery in Massive Time Series. SIGMOD, Huntington Beach, CA, USA, (2026, accepted).\nF. Chavelli, A. Ermshaus, F. Yang, P. Schäfer, J. Paparrizos, P. Boniol. tsseg: An Interactive Toolkit for Time Series Segmentation. Demo @ ECML/PKDD, 2026.\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, PVLDB, Boston, MA, USA, 2026. Paper · Code"
+    "section": "2027",
+    "text": "2027\n\nP. Schäfer, U. Leser, M. Ceccarello. SCAMPI – Fast Pattern Discovery in Massive Time Series. SIGMOD, Huntington Beach, CA, USA, (2027, accepted)."
   },
   {
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
     "title": "Publications",
-    "section": "2025",
-    "text": "2025\n\nL. Feremans, P. Schäfer, W. Meert. MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025, Porto, Portugal. Paper\nP. Schäfer, J. Brand, U. Leser, B. Peng, T. Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025, Hong Kong SAR, China. Paper · Code\nP. Schäfer, U. Leser. Discovering Leitmotifs in Multidimensional Time Series, PVLDB 2025. Paper · Code · Talk\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, Preprint. Paper draft"
+    "section": "2026",
+    "text": "2026\n\nF. Chavelli, A. Ermshaus, F. Yang, P. Schäfer, J. Paparrizos, P. Boniol. tsseg: An Interactive Toolkit for Time Series Segmentation. Demo @ ECML/PKDD, 2026.\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, PVLDB, Boston, MA, USA, 2026. Paper · Code"
   },
   {
     "objectID": "publications.html#section-2",
     "href": "publications.html#section-2",
     "title": "Publications",
-    "section": "2024",
-    "text": "2024\n\nP. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye, Preprint. Paper draft · Code\nM. Middlehurst, A. Ismail-Fawaz, A. Guillaume, C. Holder, D. Guijo-Rubio, G. Bulatova, L. Tsaprounis, L. Mentel, M. Walter, P. Schäfer, A. Bagnall. aeon: a Python Toolkit for Learning from Time Series, Journal of Machine Learning Research, 2024. Paper\nA. Bagnall, M. Middlehurst, G. Forestier, A. Ismail-Fawaz, A. Guillaume, D. G. Rubio, A. Ermshaus, P. Schäfer, T. Papenbrock, S. Schmidl, P. Wenig. An Introduction to Machine Learning from Time Series, Tutorial @ ECML-PKDD 2024. Webpage\nA. Ermshaus, P. Schäfer, U. Leser. Raising the ClaSS of Streaming Time Series Segmentation, PVLDB, Guangzhou, China, 2024. Paper · Code\nM. Middlehurst, P. Schäfer, A. J. Bagnall. Bake off redux: a review and experimental evaluation of recent time series classification algorithms, Data Mining and Knowledge Discovery, 2024. Paper · Webpage"
+    "section": "2025",
+    "text": "2025\n\nL. Feremans, P. Schäfer, W. Meert. MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series, ECML/PKDD 2025, Porto, Portugal. Paper\nP. Schäfer, J. Brand, U. Leser, B. Peng, T. Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye, ICDE 2025, Hong Kong SAR, China. Paper · Code\nP. Schäfer, U. Leser. Discovering Leitmotifs in Multidimensional Time Series, PVLDB 2025. Paper · Code · Talk\nA. Ermshaus, P. Schäfer, U. Leser. CLaP — State Detection from Time Series, Preprint. Paper draft"
   },
   {
     "objectID": "publications.html#section-3",
     "href": "publications.html#section-3",
     "title": "Publications",
-    "section": "2023",
-    "text": "2023\n\nA. Ermshaus, P. Schäfer, U. Leser. ClaSP: parameter-free time series segmentation, Data Mining and Knowledge Discovery, 2023. Paper · Webpage\nP. Schäfer, U. Leser. WEASEL 2.0 — A Random Dilated Dictionary Transform for Fast, Accurate and Memory Constrained Time Series Classification, Journal Track @ ECML/PKDD 2023. Paper · Code\nP. Schäfer, U. Leser. Motiflets — Simple and Accurate Detection of Motifs in Time Series, PVLDB, Vancouver, Canada, 2023. Paper · Code · Talk"
+    "section": "2024",
+    "text": "2024\n\nP. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye, Preprint. Paper draft · Code\nM. Middlehurst, A. Ismail-Fawaz, A. Guillaume, C. Holder, D. Guijo-Rubio, G. Bulatova, L. Tsaprounis, L. Mentel, M. Walter, P. Schäfer, A. Bagnall. aeon: a Python Toolkit for Learning from Time Series, Journal of Machine Learning Research, 2024. Paper\nA. Bagnall, M. Middlehurst, G. Forestier, A. Ismail-Fawaz, A. Guillaume, D. G. Rubio, A. Ermshaus, P. Schäfer, T. Papenbrock, S. Schmidl, P. Wenig. An Introduction to Machine Learning from Time Series, Tutorial @ ECML-PKDD 2024. Webpage\nA. Ermshaus, P. Schäfer, U. Leser. Raising the ClaSS of Streaming Time Series Segmentation, PVLDB, Guangzhou, China, 2024. Paper · Code\nM. Middlehurst, P. Schäfer, A. J. Bagnall. Bake off redux: a review and experimental evaluation of recent time series classification algorithms, Data Mining and Knowledge Discovery, 2024. Paper · Webpage"
   },
   {
     "objectID": "publications.html#section-4",
     "href": "publications.html#section-4",
     "title": "Publications",
-    "section": "2022",
-    "text": "2022\n\nA. Ermshaus, P. Schäfer, U. Leser. Window Size Selection in Unsupervised Time Series Analytics: A Review and Benchmark, AALTD @ ECML/PKDD, 2022. Paper · Code"
+    "section": "2023",
+    "text": "2023\n\nA. Ermshaus, P. Schäfer, U. Leser. ClaSP: parameter-free time series segmentation, Data Mining and Knowledge Discovery, 2023. Paper · Webpage\nP. Schäfer, U. Leser. WEASEL 2.0 — A Random Dilated Dictionary Transform for Fast, Accurate and Memory Constrained Time Series Classification, Journal Track @ ECML/PKDD 2023. Paper · Code\nP. Schäfer, U. Leser. Motiflets — Simple and Accurate Detection of Motifs in Time Series, PVLDB, Vancouver, Canada, 2023. Paper · Code · Talk"
   },
   {
     "objectID": "publications.html#section-5",
     "href": "publications.html#section-5",
     "title": "Publications",
-    "section": "2021",
-    "text": "2021\n\nP. Schäfer, A. Ermshaus, U. Leser. ClaSP — Time Series Segmentation, CIKM 2021. Paper · Webpage · Code · Talk"
+    "section": "2022",
+    "text": "2022\n\nA. Ermshaus, P. Schäfer, U. Leser. Window Size Selection in Unsupervised Time Series Analytics: A Review and Benchmark, AALTD @ ECML/PKDD, 2022. Paper · Code"
   },
   {
     "objectID": "publications.html#section-6",
     "href": "publications.html#section-6",
     "title": "Publications",
-    "section": "2020",
-    "text": "2020\n\nP. Schäfer, U. Leser. TEASER: Early and Accurate Time Series Classification, ECML/PKDD 2020. Paper · Code · Talk"
+    "section": "2021",
+    "text": "2021\n\nP. Schäfer, A. Ermshaus, U. Leser. ClaSP — Time Series Segmentation, CIKM 2021. Paper · Webpage · Code · Talk"
   },
   {
     "objectID": "publications.html#section-7",
     "href": "publications.html#section-7",
     "title": "Publications",
-    "section": "2019",
-    "text": "2019\n\nS. Sprenger, P. Schäfer, U. Leser. BB-Tree: A practical and efficient main-memory index structure for multidimensional workloads, EDBT 2019, Lisbon, Portugal. Paper\nS. Sprenger, P. Schäfer, U. Leser. BB-Tree: A main-memory index structure for multidimensional range queries (short paper), ICDE 2019, Macau, China."
+    "section": "2020",
+    "text": "2020\n\nP. Schäfer, U. Leser. TEASER: Early and Accurate Time Series Classification, ECML/PKDD 2020. Paper · Code · Talk"
   },
   {
     "objectID": "publications.html#section-8",
     "href": "publications.html#section-8",
     "title": "Publications",
-    "section": "2018",
-    "text": "2018\n\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, 3rd ECML/PKDD Workshop on AALTD, 2018. Code · Talk\nS. Sprenger, P. Schäfer, U. Leser. Multidimensional Range Queries on Modern Hardware, Preprint. Paper\nP. Schäfеr, D. Pflugmacher, P. Hostert, U. Leser. Classifying land cover from satellite images using time series analytics, EDBT/ICDT 2018 Workshops. Paper\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, Preprint. Paper · Code"
+    "section": "2019",
+    "text": "2019\n\nS. Sprenger, P. Schäfer, U. Leser. BB-Tree: A practical and efficient main-memory index structure for multidimensional workloads, EDBT 2019, Lisbon, Portugal. Paper\nS. Sprenger, P. Schäfer, U. Leser. BB-Tree: A main-memory index structure for multidimensional range queries (short paper), ICDE 2019, Macau, China."
   },
   {
     "objectID": "publications.html#section-9",
     "href": "publications.html#section-9",
     "title": "Publications",
-    "section": "2017",
-    "text": "2017\n\nP. Schäfer, U. Leser. Fast and Accurate Time Series Classification with WEASEL, CIKM 2017. Paper · Code · Talk\nP. Schäfer, U. Leser. Benchmarking Univariate Time Series Classifiers, BTW 2017. Paper"
+    "section": "2018",
+    "text": "2018\n\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, 3rd ECML/PKDD Workshop on AALTD, 2018. Code · Talk\nS. Sprenger, P. Schäfer, U. Leser. Multidimensional Range Queries on Modern Hardware, Preprint. Paper\nP. Schäfеr, D. Pflugmacher, P. Hostert, U. Leser. Classifying land cover from satellite images using time series analytics, EDBT/ICDT 2018 Workshops. Paper\nP. Schäfer, U. Leser. Multivariate Time Series Classification with WEASEL+MUSE, Preprint. Paper · Code"
   },
   {
     "objectID": "publications.html#section-10",
     "href": "publications.html#section-10",
     "title": "Publications",
-    "section": "2016",
-    "text": "2016\n\nP. Schäfer. Scalable Time Series Classification, ECML/PKDD 2016 & Data Mining and Knowledge Discovery 2016. Paper · Keynote · PPT · Code"
+    "section": "2017",
+    "text": "2017\n\nP. Schäfer, U. Leser. Fast and Accurate Time Series Classification with WEASEL, CIKM 2017. Paper · Code · Talk\nP. Schäfer, U. Leser. Benchmarking Univariate Time Series Classifiers, BTW 2017. Paper"
   },
   {
     "objectID": "publications.html#section-11",
     "href": "publications.html#section-11",
     "title": "Publications",
-    "section": "2015",
-    "text": "2015\n\nP. Schäfer. Scalable Time Series Classification for Data Analytics, Dissertation 2015. Dissertation · Keynote · PPT"
+    "section": "2016",
+    "text": "2016\n\nP. Schäfer. Scalable Time Series Classification, ECML/PKDD 2016 & Data Mining and Knowledge Discovery 2016. Paper · Keynote · PPT · Code"
   },
   {
     "objectID": "publications.html#section-12",
     "href": "publications.html#section-12",
+    "title": "Publications",
+    "section": "2015",
+    "text": "2015\n\nP. Schäfer. Scalable Time Series Classification for Data Analytics, Dissertation 2015. Dissertation · Keynote · PPT"
+  },
+  {
+    "objectID": "publications.html#section-13",
+    "href": "publications.html#section-13",
     "title": "Publications",
     "section": "2014",
     "text": "2014\n\nP. Schäfer. The BOSS is concerned with time series classification in the presence of noise, Data Mining and Knowledge Discovery 2014. Paper · Code\nP. Schäfer. Experiencing the Shotgun Distance for Time Series Analysis, Transactions on Machine Learning and Data Mining 2014. Paper · Code\nI. Potamitis, P. Schäfer. On classifying insects from their wing-beat: New results, Ecology and acoustics, Paris, France 2014.\nP. Schäfer. Towards Time Series Classification without Human Preprocessing, MLDM 2014. Paper · Code\nJens Krüger et al. The MoSGrid science gateway – A complete solution for molecular simulations, Journal of Chemical Theory and Computation, 2014. Paper"

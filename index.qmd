@@ -39,6 +39,7 @@ Room 4.407<br/>
 
 - I submitted my habilitation thesis on **23rd April '26** at the *Humboldt-University of Berlin*. 
 The work focuses on *Fundamental Methods for Time Series Analytics*.
+:::
 
 ::: {.home-section}
 ## Research interests

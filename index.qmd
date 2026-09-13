@@ -65,6 +65,7 @@ Recent courses (full archive on [Teaching](teaching.html)):
 
 Recent highlights—see [Publications](publications.html) for the full list.
 
+- **SCAMPI — Fast Pattern Discovery in Massive Time Series**, SIGMOD 2027.
 - **CLaP — State Detection from Time Series**, PVLDB 2026.
 - **Fast and Exact Similarity Search in less than a Blink of an Eye**, ICDE 2025.
 - **MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series**, ECML/PKDD 2025.
@@ -78,7 +79,7 @@ Recent highlights—see [Publications](publications.html) for the full list.
 ::: {.home-section}
 ## Service & projects
 
-- Organizer: AALTD Workshop (2022–2025), Human Activity Segmentation Challenge @ ECML/PKDD 2023
+- Organizer: AALTD Workshop (2022–2026), Human Activity Segmentation Challenge @ ECML/PKDD 2023
 - Program committees & reviews: KDD ’25, VLDB ’25–’26, ECML ’21–’24, AAAI ’21–’23, IJCAI ’20, TKDE, DMKD, IEEE Cybernetics, and more
 - Current open-source focus: **aeon** — machine learning from time series
 - Past projects: sktime (former core developer), MoSGrid, Harness, Contrail, XtreemFS

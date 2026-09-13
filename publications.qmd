@@ -9,21 +9,21 @@ My google scholar profile is available [here](https://scholar.google.de/citation
 
 ## 2026
 
-- P. Schäfer, U. Leser, Matteo Ceccarello. *SCAMPI – Fast Pattern Discovery in Massive Time Series*. SIGMOD,  Huntington Beach, CA, USA, 2027.
+- P. Schäfer, U. Leser, M. Ceccarello. *SCAMPI – Fast Pattern Discovery in Massive Time Series*. SIGMOD,  Huntington Beach, CA, USA, (2026, accepted).
 - F. Chavelli, A. Ermshaus, F. Yang, P. Schäfer, J. Paparrizos, P. Boniol. *tsseg: An Interactive Toolkit for Time Series Segmentation*. Demo @ ECML/PKDD, 2026.
 - A. Ermshaus, P. Schäfer, U. Leser. *CLaP — State Detection from Time Series*, PVLDB, Boston, MA, USA, 2026. [Paper](https://www.vldb.org/pvldb/vol19/p70-ermshaus.pdf) · [Code](https://github.com/ermshaua/classification-label-profile)
 
 ## 2025
 
 - L. Feremans, P. Schäfer, W. Meert. *MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series*, ECML/PKDD 2025, Porto, Portugal. [Paper](https://link.springer.com/chapter/10.1007/978-3-032-06109-6_27)
-- P. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. *Fast and Exact Similarity Search in less than a Blink of an Eye*, ICDE 2025, Hong Kong SAR, China. [Paper](https://ieeexplore.ieee.org/document/11112946) · [Code](https://github.com/patrickzib/MESSI-SFA)
+- P. Schäfer, J. Brand, U. Leser, B. Peng, T. Palpanas. *Fast and Exact Similarity Search in less than a Blink of an Eye*, ICDE 2025, Hong Kong SAR, China. [Paper](https://ieeexplore.ieee.org/document/11112946) · [Code](https://github.com/patrickzib/MESSI-SFA)
 - P. Schäfer, U. Leser. *Discovering Leitmotifs in Multidimensional Time Series*, PVLDB 2025. [Paper](https://www.vldb.org/pvldb/vol18/p377-schafer.pdf) · [Code](https://github.com/patrickzib/leitmotifs) · [Talk](https://github.com/patrickzib/leitmotifs/blob/main/slides/slides_vldb.pdf)
 - A. Ermshaus, P. Schäfer, U. Leser. *CLaP — State Detection from Time Series*, Preprint. [Paper draft](https://arxiv.org/abs/2504.01783)
 
 ## 2024
 
 - P. Schäfer, J. Brand, U. Leser, P. Botao, T. Palpanas. *Fast and Exact Similarity Search in less than a Blink of an Eye*, Preprint. [Paper draft](https://arxiv.org/abs/2411.17483) · [Code](https://github.com/patrickzib/MESSI-SFA)
-- M. Middlehurst, A. Ismail-Fawaz, A. Guillaume, C. Holder, D. G. Rubio, G. Bulatova, L. Tsaprounis, L. Mentel, M. Walter, P. Schäfer, A. Bagnall. *aeon: a Python Toolkit for Learning from Time Series*, Journal of Machine Learning Research, 2024. [Paper](https://jmlr.org/papers/v25/23-1444.html)
+- M. Middlehurst, A. Ismail-Fawaz, A. Guillaume, C. Holder, D. Guijo-Rubio, G. Bulatova, L. Tsaprounis, L. Mentel, M. Walter, P. Schäfer, A. Bagnall. *aeon: a Python Toolkit for Learning from Time Series*, Journal of Machine Learning Research, 2024. [Paper](https://jmlr.org/papers/v25/23-1444.html)
 - A. Bagnall, M. Middlehurst, G. Forestier, A. Ismail-Fawaz, A. Guillaume, D. G. Rubio, A. Ermshaus, P. Schäfer, T. Papenbrock, S. Schmidl, P. Wenig. *An Introduction to Machine Learning from Time Series*, Tutorial @ ECML-PKDD 2024. [Webpage](https://aeon-tutorials.github.io/ECML-2024/)
 - A. Ermshaus, P. Schäfer, U. Leser. *Raising the ClaSS of Streaming Time Series Segmentation*, PVLDB, Guangzhou, China, 2024. [Paper](https://www.vldb.org/pvldb/vol17/p1953-ermshaus.pdf) · [Code](https://github.com/ermshaua/classification-score-stream)
 - M. Middlehurst, P. Schäfer, A. J. Bagnall. *Bake off redux: a review and experimental evaluation of recent time series classification algorithms*, Data Mining and Knowledge Discovery, 2024. [Paper](https://link.springer.com/article/10.1007/s10618-024-01022-1) · [Webpage](https://tsml-eval.readthedocs.io/en/latest/publications/2023/tsc_bakeoff/tsc_bakeoff_2023.html)
@@ -48,14 +48,14 @@ My google scholar profile is available [here](https://scholar.google.de/citation
 
 ## 2019
 
-- S. Sprenger, P. Schäfer, U. Leser. *BB-Tree: A practical and efficient main-memory index structure for multidimensional workloads*, EDBT 2019, Lisbon, Portugal. [Paper](https://arxiv.org/pdf/1801.03644.pdf)
+- S. Sprenger, P. Schäfer, U. Leser. *BB-Tree: A practical and efficient main-memory index structure for multidimensional workloads*, EDBT 2019, Lisbon, Portugal. [Paper](https://openproceedings.org/2019/conf/edbt/EDBT19_paper_27.pdf)
 - S. Sprenger, P. Schäfer, U. Leser. *BB-Tree: A main-memory index structure for multidimensional range queries (short paper)*, ICDE 2019, Macau, China.
 
 ## 2018
 
 - P. Schäfer, U. Leser. *Multivariate Time Series Classification with WEASEL+MUSE*, 3rd ECML/PKDD Workshop on AALTD, 2018. [Code](https://github.com/patrickzib/SFA) · [Talk](https://github.com/patrickzib/SFA/tree/master/slides)
 - S. Sprenger, P. Schäfer, U. Leser. *Multidimensional Range Queries on Modern Hardware*, Preprint. [Paper](https://arxiv.org/pdf/1801.03644.pdf)
-- P. Schäфер, D. Pflugmacher, P. Hostert, U. Leser. *Classifying land cover from satellite images using time series analytics*, EDBT/ICDT 2018 Workshops. [Paper](http://ceur-ws.org/Vol-2083/paper-02.pdf)
+- P. Schäfеr, D. Pflugmacher, P. Hostert, U. Leser. *Classifying land cover from satellite images using time series analytics*, EDBT/ICDT 2018 Workshops. [Paper](http://ceur-ws.org/Vol-2083/paper-02.pdf)
 - P. Schäfer, U. Leser. *Multivariate Time Series Classification with WEASEL+MUSE*, Preprint. [Paper](https://arxiv.org/abs/1711.11343) · [Code](https://github.com/patrickzib/SFA)
 
 ## 2017

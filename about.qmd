@@ -17,7 +17,7 @@ I obtained my doctorate at HU Berlin on scalable time series classification and 
 
 ### Habilitation
 
-- Fundamental Methods for Time Series Analytics. (Habilitation, 2016, submitted)
+- Fundamental Methods for Time Series Analytics. (Habilitation, 2026, submitted)
 
 ### Dissertation
 
@@ -67,6 +67,6 @@ Leitmotifs), segmentation (ClaSP, ClaSS, ClaP), indexing & similarity search (SF
 
 ### Service
 
-- **Program committees & reviews:** KDD ’25 (Excellent Reviewer), VLDB ’25–’26 (Distinguished Reviewer ’25), ECML ’21–’24, AAAI ’21–’23, IJCAI ’20, ADBIS ’20, AALTD (since ’16), LDWA ’19, IEEE/CAA ’19, TKDE (since ’17), Data Mining and Knowledge Discovery (since ’16), IEEE Cybernetics (since ’18)
+- **Program committees & reviews:** KDD ’25 (Excellent Reviewer), VLDB ’25–’26 (Distinguished Reviewer ’25, '26), ECML ’21–’24, AAAI ’21–’23, IJCAI ’20, ADBIS ’20, AALTD (since ’16), LDWA ’19, IEEE/CAA ’19, TKDE (since ’17), Data Mining and Knowledge Discovery (since ’16), IEEE Cybernetics (since ’18)
 - **Projects:** Current — [aeon](https://www.aeon-toolkit.org/) (core developer). Past — sktime (former core developer), MoSGrid, Harness, Contrail, XtreemFS.
 - **Academic self-governance:** Institute-wide space planning lead for Computer Science (SoSe 2022–present); Committee for Teaching and Study (Kommission für Lehre und Studium).

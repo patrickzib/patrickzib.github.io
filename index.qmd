@@ -44,7 +44,7 @@ The work focuses on *Fundamental Methods for Time Series Analytics*.
 ::: {.home-section}
 ## Research interests
 
-- Time series analytics: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs), segmentation (ClaSP, ClaSS, ClaP)
+- Time series analytics: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs), segmentation (ClaSP, ClaSS, CLaP)
 - Vector search and high-dimensional indexing for similarity search at scale
 - Benchmarking methodology and reproducible experimentation for ML systems
 :::

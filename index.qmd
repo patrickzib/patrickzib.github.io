@@ -64,7 +64,7 @@ Recent courses (full archive on [Teaching](teaching.html)):
 ::: {.home-section}
 ## Selected publications
 
-Recent highlights—see [Publications](publications.html) for the full list.
+Recent highlights (see [Publications](publications.html) for the full list).
 
 - **SCAMPI - Fast Pattern Discovery in Massive Time Series**, SIGMOD 2027.
 - **TSB-SEG: A Systematic Time-Series Segmentation Benchmark**, NeurIPS 2026.

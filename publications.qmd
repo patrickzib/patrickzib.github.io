@@ -7,9 +7,13 @@ page-layout: full
 
 My google scholar profile is available [here](https://scholar.google.de/citations?user=j0QxZSYAAAAJ&hl=de).
 
+## 2027
+
+- P. Schäfer, U. Leser, M. Ceccarello. *SCAMPI – Fast Pattern Discovery in Massive Time Series*. SIGMOD,  Huntington Beach, CA, USA, (2027, accepted).
+
 ## 2026
 
-- P. Schäfer, U. Leser, M. Ceccarello. *SCAMPI – Fast Pattern Discovery in Massive Time Series*. SIGMOD,  Huntington Beach, CA, USA, (2026, accepted).
+- F. Chavelli, A. Ermshaus, P. Schäfer, F. Yang, J. Paparrizos, P. Boniol. *TSB-SEG: A Systematic Time-Series Segmentation Benchmark*. NeurIPS, (2026, accepted).
 - F. Chavelli, A. Ermshaus, F. Yang, P. Schäfer, J. Paparrizos, P. Boniol. *tsseg: An Interactive Toolkit for Time Series Segmentation*. Demo @ ECML/PKDD, 2026.
 - A. Ermshaus, P. Schäfer, U. Leser. *CLaP — State Detection from Time Series*, PVLDB, Boston, MA, USA, 2026. [Paper](https://www.vldb.org/pvldb/vol19/p70-ermshaus.pdf) · [Code](https://github.com/ermshaua/classification-label-profile)
 

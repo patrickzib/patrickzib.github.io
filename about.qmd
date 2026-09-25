@@ -25,14 +25,14 @@ I obtained my doctorate at HU Berlin on scalable time series classification and 
 
 ### Organizer roles
 
-- AALTD Workshop — Advanced Analytics and Learning on Temporal Data (`'22, '23, '24, '25`, '26`)
+- AALTD Workshop — Advanced Analytics and Learning on Temporal Data (`'22, '23, '24, '25, '26`)
 - ECML 2024 tutorial: [An Introduction to Machine Learning from Time Series](https://aeon-tutorials.github.io/ECML-2024/)
 - Human Activity Segmentation Challenge @ ECML/PKDD 2023
 - Guest editor for the Special Issue on Time Series Classification (2019)
 
 ### Awards & nominations
 
-- VLDB Distinguished Reviewer Award — [2025](https://vldb.org/2025/?conference-awards) [2026](https://vldb.org/2026/conference-awards.html)
+- VLDB Distinguished Reviewer Award — [2025](https://vldb.org/2025/?conference-awards), [2026](https://vldb.org/2026/conference-awards.html)
 - Two-time finalist for Humboldt-Universität zu Berlin’s “Preis für gute Lehre”:
 recognized in 2020 for Digital Teaching and in 2021 for Digitally Supported Teaching
 Concepts ([finalists 2020](https://bolognalab.hu-berlin.de/de/gl/pfgl/auswahl/finalisten/finalist_innen-2020), [finalists 2021](https://bolognalab.hu-berlin.de/de/gl/pfgl/auswahl/finalisten/finalist-innen-2021))

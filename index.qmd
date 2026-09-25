@@ -44,7 +44,7 @@ The work focuses on *Fundamental Methods for Time Series Analytics*.
 ::: {.home-section}
 ## Research interests
 
-- Time series analytics: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs), segmentation (ClaSP, ClaSS, CLaP)
+- Time series analytics: classification (BOSS, WEASEL), motif discovery (Motiflets, Leitmotifs), segmentation (ClaSP, ClaSS, CLaP, TSB-SEG)
 - Vector search and high-dimensional indexing for similarity search at scale
 - Benchmarking methodology and reproducible experimentation for ML systems
 :::
@@ -66,8 +66,9 @@ Recent courses (full archive on [Teaching](teaching.html)):
 
 Recent highlights—see [Publications](publications.html) for the full list.
 
-- **SCAMPI — Fast Pattern Discovery in Massive Time Series**, SIGMOD 2027.
-- **CLaP — State Detection from Time Series**, PVLDB 2026.
+- **SCAMPI - Fast Pattern Discovery in Massive Time Series**, SIGMOD 2027.
+- **TSB-SEG: A Systematic Time-Series Segmentation Benchmark**, NeurIPS 2026.
+- **CLaP - State Detection from Time Series**, PVLDB 2026.
 - **Fast and Exact Similarity Search in less than a Blink of an Eye**, ICDE 2025.
 - **MotiPlus and MotiSet: Discovering the best set of Motiflets in Time Series**, ECML/PKDD 2025.
 - **Discovering Leitmotifs in Multidimensional Time Series**, PVLDB 2025.
